@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meal Recommendation Result</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <style>
+        :root {
+            --primary-color: #4a6fa5;
+            --secondary-color: #166088;
+            --accent-color: #4fc3f7;
+            --light-color: #f8f9fa;
+            --dark-color: #343a40;
+            --success-color: #28a745;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        body {
+            display: flex;
+            min-height: 100vh;
+            background-color: #6b81a1;
+        }
+
+        /* Sidebar Styles */
+        .sidebar {
+            width: 300px;
+            background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+            color: white;
+            padding: 20px;
+            box-shadow: 2px 0 10px rgba(0, 0, 0, 0.1);
+            position: relative;
+            z-index: 1;
+        }
+
+        .sidebar-header {
+            text-align: center;
+            margin-bottom: 30px;
+            padding-bottom: 20px;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+        }
+
+        .sidebar-header h2 {
+            font-size: 1.5rem;
+            margin-bottom: 10px;
+        }
+
+        .exercise-category {
+            margin-bottom: 25px;
+        }
+
+        .exercise-category h3 {
+            font-size: 1.2rem;
+            margin-bottom: 15px;
+            display: flex;
+            align-items: center;
+        }
+
+        .exercise-category h3 i {
+            margin-right: 10px;
+            color: var(--accent-color);
+        }
+
+        .exercise-item {
+            background: rgba(255, 255, 255, 0.1);
+            padding: 12px 15px;
+            border-radius: 6px;
+            margin-bottom: 10px;
+            transition: all 0.3s ease;
+        }
+
+        .exercise-item:hover {
+            background: rgba(255, 255, 255, 0.2);
+            transform: translateX(5px);
+        }
+
+        .exercise-item h4 {
+            font-size: 1rem;
+            margin-bottom: 5px;
+            color: var(--accent-color);
+        }
+
+        .exercise-item p {
+            font-size: 0.9rem;
+            opacity: 0.9;
+        }
+
+        /* Main Content Styles */
+        .main-content {
+            flex: 1;
+            padding: 30px;
+            overflow-y: auto;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+        }
+
+        h1 {
+            color: var(--secondary-color);
+            text-align: center;
+            margin-bottom: 30px;
+            font-size: 2.2rem;
+            position: relative;
+            padding-bottom: 10px;
+        }
+
+        h1::after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 100px;
+            height: 3px;
+            background: var(--accent-color);
+            border-radius: 3px;
+        }
+
+        .meal-section {
+            background: white;
+            border-radius: 10px;
+            padding: 20px 25px;
+            margin-bottom: 25px;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+
+        .meal-section:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1);
+        }
+
+        .meal-section h2 {
+            color: var(--primary-color);
+            margin-bottom: 15px;
+            font-size: 1.4rem;
+            display: flex;
+            align-items: center;
+        }
+
+        .meal-section h2::before {
+            content: '';
+            display: inline-block;
+            width: 8px;
+            height: 20px;
+            background: var(--accent-color);
+            margin-right: 10px;
+            border-radius: 3px;
+        }
+
+        .meal-section p {
+            color: var(--dark-color);
+            line-height: 1.6;
+            font-size: 1rem;
+        }
+
+        .back-link {
+            display: inline-block;
+            background: var(--primary-color);
+            color: white;
+            padding: 12px 25px;
+            border-radius: 30px;
+            text-decoration: none;
+            font-weight: 500;
+            transition: all 0.3s ease;
+            margin-top: 20px;
+            border: 2px solid var(--primary-color);
+        }
+
+        .back-link:hover {
+            background: transparent;
+            color: var(--primary-color);
+        }
+
+        .recommendation-highlight {
+            background-color: #e3f2fd;
+            border-left: 4px solid var(--accent-color);
+            padding: 15px;
+            border-radius: 0 5px 5px 0;
+        }
+
+        /* Responsive Design */
+        @media (max-width: 768px) {
+            body {
+                flex-direction: column;
+            }
+
+            .sidebar {
+                width: 100%;
+                padding: 15px;
+            }
+
+            .main-content {
+                padding: 20px;
+            }
+
+            .container {
+                max-width: 100%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Exercise Sidebar -->
+    <aside class="sidebar">
+        <div class="sidebar-header">
+            <h2><i class="fas fa-dumbbell"></i> Exercise Recommendations</h2>
+            <p>Complement your meal plan with these exercises</p>
+        </div>
+
+        <div class="exercise-category">
+            <h3><i class="fas fa-heartbeat"></i> Cardio</h3>
+            <div class="exercise-item">
+                <h4>Brisk Walking</h4>
+                <p>30 minutes, moderate pace. Great for beginners and helps with digestion.</p>
+            </div>
+            <div class="exercise-item">
+                <h4>Cycling</h4>
+                <p>20-30 minutes. Low impact and excellent for heart health.</p>
+            </div>
+        </div>
+
+        <div class="exercise-category">
+            <h3><i class="fas fa-running"></i> Strength Training</h3>
+            <div class="exercise-item">
+                <h4>Bodyweight Squats</h4>
+                <p>3 sets of 12 reps. Builds lower body strength.</p>
+            </div>
+            <div class="exercise-item">
+                <h4>Push-ups</h4>
+                <p>3 sets to failure. Strengthens chest and arms.</p>
+            </div>
+        </div>
+
+        <div class="exercise-category">
+            <h3><i class="fas fa-spa"></i> Flexibility</h3>
+            <div class="exercise-item">
+                <h4>Yoga Stretches</h4>
+                <p>15 minutes daily. Improves flexibility and reduces stress.</p>
+            </div>
+            <div class="exercise-item">
+                <h4>Neck Rolls</h4>
+                <p>2 minutes. Relieves tension from sitting all day.</p>
+            </div>
+        </div>
+
+        <div class="exercise-category">
+            <h3><i class="fas fa-burn"></i> High Intensity</h3>
+            <div class="exercise-item">
+                <h4>Jumping Jacks</h4>
+                <p>1 minute intervals, 3-5 sets. Great calorie burner.</p>
+            </div>
+            <div class="exercise-item">
+                <h4>Burpees</h4>
+                <p>10 reps, 3 sets. Full body workout.</p>
+            </div>
+        </div>
+    </aside>
+
+    <!-- Main Content -->
+    <main class="main-content">
+        <div class="container">
+            <h1>Your Personalized Meal Recommendation</h1>
+            
+            <div class="meal-section">
+                <h2>Breakfast</h2>
+                <p>{{ breakfast }}</p>
+            </div>
+
+            <div class="meal-section">
+                <h2>Lunch</h2>
+                <p>{{ lunch }}</p>
+            </div>
+
+            <div class="meal-section">
+                <h2>Dinner</h2>
+                <p>{{ dinner }}</p>
+            </div>
+
+            <div class="meal-section">
+                <h2>Snacks</h2>
+                <p>{{ snacks }}</p>
+            </div>
+
+            <div class="meal-section recommendation-highlight">
+                <h2>Recommended Meal Plan</h2>
+                <p>{{ recommendation }}</p>
+            </div>
+
+            <a href="/" class="back-link"><i class="fas fa-arrow-left"></i> Go Back</a>
+        </div>
+    </main>
+</body>
+</html>

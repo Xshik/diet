@@ -1,0 +1,642 @@
+Age,Gender,BMI,Activity Level,Health Conditions,Food Allergies,Dietary Preference,Breakfast,Lunch,Dinner,Snacks,Recommended_Meal_Plan
+56,Male,32.544914081804684,Sedentary,Hypertension,Dairy,Non-Vegetarian,Tofu Scramble,Lentil Soup,Pasta,Nuts,Balanced
+69,Male,26.66991769573057,Sedentary,Asthma,Soy,Non-Vegetarian,Smoothie,Veggie Wrap,Stir Fry Vegetables,Yogurt,Balanced
+46,Male,26.42967852588969,Active,Diabetes,Soy,Vegetarian,Pancakes,Lentil Soup,Steak,Chips,Low Carb
+32,Female,28.27472844688204,Moderate,Diabetes,Peanut,Vegetarian,"Oats, Eggs",Lentil Soup,Veggie Burger,Nuts,Low Carb
+38,Male,29.68726651722455,Active,Heart Disease,Soy,Vegetarian,Smoothie,Lentil Soup,Veggie Burger,Chips,Balanced
+36,Female,22.90596645779545,Sedentary,Hypertension,Peanut,Vegan,Smoothie,Quinoa Bowl,Veggie Burger,Chips,Plant-Based
+28,Male,31.65752935651432,Moderate,Hypertension,Soy,Vegetarian,Pancakes,Veggie Wrap,Grilled Fish,Nuts,Balanced
+28,Male,29.36445527186402,Active,Heart Disease,Soy,Vegan,Smoothie,Grilled Cheese,Grilled Fish,Fruits,Plant-Based
+41,Male,32.53459853005499,Moderate,Diabetes,Gluten,Vegan,Smoothie,Chicken Salad,Veggie Burger,Yogurt,Low Carb
+53,Female,32.81035431583674,Sedentary,Asthma,Gluten,Vegan,Smoothie,Chicken Salad,Steak,Yogurt,Plant-Based
+20,Female,30.008279117543182,Active,Asthma,Peanut,Vegan,Smoothie,Lentil Soup,Steak,Granola Bar,Plant-Based
+39,Male,29.72232273404496,Sedentary,Diabetes,Soy,Non-Vegetarian,"Oats, Eggs",Chicken Salad,Steak,Yogurt,Low Carb
+41,Male,30.91982455270108,Moderate,Asthma,Peanut,Vegan,Avocado Toast,Grilled Cheese,Stir Fry Vegetables,Granola Bar,Plant-Based
+55,Female,32.88541820779633,Active,Diabetes,Soy,Vegan,Smoothie,Grilled Cheese,Pasta,Nuts,Low Carb
+38,Male,32.125976384318584,Sedentary,Asthma,Gluten,Vegetarian,"Oats, Eggs",Veggie Wrap,Pasta,Nuts,Balanced
+50,Male,20.626352813311847,Active,Diabetes,Gluten,Vegetarian,Avocado Toast,Chicken Salad,Pasta,Yogurt,Low Carb
+29,Male,24.02946109527584,Active,Heart Disease,Dairy,Vegetarian,Smoothie,Quinoa Bowl,Steak,Granola Bar,High Protein
+39,Female,30.767886228811527,Moderate,Diabetes,Soy,Vegetarian,Pancakes,Veggie Wrap,Steak,Nuts,Low Carb
+61,Male,21.152538284797085,Sedentary,Hypertension,Dairy,Non-Vegetarian,Tofu Scramble,Veggie Wrap,Grilled Fish,Chips,Balanced
+42,Female,31.996455897964527,Active,Asthma,Gluten,Non-Vegetarian,Tofu Scramble,Grilled Cheese,Stir Fry Vegetables,Nuts,Balanced
+66,Male,32.23021393630274,Moderate,Hypertension,Dairy,Non-Vegetarian,Smoothie,Chicken Salad,Stir Fry Vegetables,Granola Bar,Balanced
+59,Female,18.60536688332776,Sedentary,Asthma,Soy,Vegan,Smoothie,Chicken Salad,Steak,Nuts,Plant-Based
+33,Female,28.67929415319975,Moderate,Heart Disease,Peanut,Vegetarian,Pancakes,Quinoa Bowl,Pasta,Chips,Balanced
+64,Male,28.92492319577503,Moderate,Asthma,Soy,Vegetarian,Smoothie,Veggie Wrap,Stir Fry Vegetables,Nuts,Balanced
+68,Female,22.78675908755864,Sedentary,Diabetes,Gluten,Vegan,Pancakes,Quinoa Bowl,Pasta,Nuts,Low Carb
+61,Male,28.961094101143587,Active,Heart Disease,Gluten,Vegetarian,"Oats, Eggs",Veggie Wrap,Stir Fry Vegetables,Chips,Balanced
+20,Male,31.36744901999387,Moderate,Hypertension,Soy,Vegan,Smoothie,Quinoa Bowl,Stir Fry Vegetables,Fruits,Plant-Based
+54,Male,20.265180540644813,Sedentary,Diabetes,Gluten,Non-Vegetarian,Smoothie,Chicken Salad,Stir Fry Vegetables,Fruits,Low Carb
+68,Female,31.05696039128346,Moderate,Hypertension,Soy,Vegan,Smoothie,Chicken Salad,Stir Fry Vegetables,Nuts,Plant-Based
+26,Female,24.14089073963832,Active,Asthma,Dairy,Vegetarian,Avocado Toast,Quinoa Bowl,Steak,Yogurt,High Protein
+35,Male,33.87846374091529,Sedentary,Hypertension,Soy,Non-Vegetarian,Pancakes,Quinoa Bowl,Stir Fry Vegetables,Granola Bar,Balanced
+42,Male,33.96427003940144,Moderate,Heart Disease,Dairy,Vegan,Tofu Scramble,Chicken Salad,Grilled Fish,Nuts,Plant-Based
+31,Male,29.85011441796341,Moderate,Asthma,Peanut,Vegetarian,Smoothie,Grilled Cheese,Veggie Burger,Granola Bar,Balanced
+26,Male,23.465898854622463,Sedentary,Hypertension,Peanut,Vegan,Tofu Scramble,Chicken Salad,Grilled Fish,Chips,Plant-Based
+19,Male,19.61128492423473,Active,Hypertension,Peanut,Non-Vegetarian,Tofu Scramble,Quinoa Bowl,Grilled Fish,Nuts,High Protein
+37,Male,28.105812592908507,Moderate,Diabetes,Soy,Vegetarian,"Oats, Eggs",Quinoa Bowl,Grilled Fish,Fruits,Low Carb
+61,Female,32.88035730151421,Sedentary,Heart Disease,Peanut,Vegan,"Oats, Eggs",Quinoa Bowl,Pasta,Chips,Plant-Based
+52,Female,30.86925522375826,Sedentary,Asthma,Peanut,Vegan,Avocado Toast,Veggie Wrap,Steak,Chips,Plant-Based
+31,Female,20.646422962155427,Moderate,Hypertension,Dairy,Vegan,Smoothie,Chicken Salad,Veggie Burger,Granola Bar,Plant-Based
+34,Male,31.011342732828872,Moderate,Diabetes,Dairy,Vegetarian,Avocado Toast,Quinoa Bowl,Grilled Fish,Fruits,Low Carb
+53,Female,18.905684121570225,Active,Heart Disease,Gluten,Non-Vegetarian,Tofu Scramble,Veggie Wrap,Grilled Fish,Chips,High Protein
+57,Female,23.83956861596743,Active,Diabetes,Peanut,Non-Vegetarian,Tofu Scramble,Chicken Salad,Veggie Burger,Chips,Low Carb
+19,Female,31.211722393828587,Active,Diabetes,Soy,Non-Vegetarian,Tofu Scramble,Quinoa Bowl,Pasta,Granola Bar,Low Carb
+21,Male,23.014839993647488,Active,Heart Disease,Dairy,Vegan,Pancakes,Quinoa Bowl,Steak,Granola Bar,Plant-Based
+46,Male,34.95255425260223,Moderate,Heart Disease,Peanut,Vegan,Smoothie,Lentil Soup,Grilled Fish,Fruits,Plant-Based
+43,Male,25.947885901439644,Moderate,Hypertension,Dairy,Vegan,Pancakes,Quinoa Bowl,Steak,Nuts,Plant-Based
+61,Female,21.199793049662546,Active,Hypertension,Gluten,Vegan,Pancakes,Lentil Soup,Pasta,Nuts,Plant-Based
+53,Female,22.142698611014545,Moderate,Asthma,Dairy,Non-Vegetarian,Avocado Toast,Lentil Soup,Grilled Fish,Fruits,Balanced
+32,Female,23.00878219547045,Moderate,Diabetes,Soy,Vegan,Smoothie,Quinoa Bowl,Grilled Fish,Fruits,Low Carb
+25,Female,34.18924877713177,Moderate,Asthma,Soy,Non-Vegetarian,Smoothie,Chicken Salad,Stir Fry Vegetables,Nuts,Balanced
+40,Female,25.633524217202933,Moderate,Asthma,Gluten,Non-Vegetarian,Pancakes,Grilled Cheese,Veggie Burger,Granola Bar,Balanced
+57,Male,34.06966268276538,Sedentary,Heart Disease,Soy,Vegan,"Oats, Eggs",Veggie Wrap,Stir Fry Vegetables,Chips,Plant-Based
+38,Female,25.42550072928102,Sedentary,Asthma,Soy,Vegan,Avocado Toast,Lentil Soup,Pasta,Chips,Plant-Based
+33,Female,29.035678136457413,Sedentary,Hypertension,Dairy,Vegan,Avocado Toast,Lentil Soup,Grilled Fish,Fruits,Plant-Based
+64,Female,34.73563119133716,Sedentary,Hypertension,Dairy,Vegan,Smoothie,Veggie Wrap,Steak,Fruits,Plant-Based
+41,Female,25.25401110419821,Moderate,Heart Disease,Dairy,Vegan,Pancakes,Chicken Salad,Veggie Burger,Granola Bar,Plant-Based
+43,Male,33.25263686070572,Moderate,Diabetes,Dairy,Vegan,Avocado Toast,Lentil Soup,Steak,Nuts,Low Carb
+62,Male,22.016227616413875,Moderate,Hypertension,Soy,Vegan,Avocado Toast,Veggie Wrap,Steak,Nuts,Plant-Based
+58,Female,19.01371236759444,Sedentary,Asthma,Dairy,Vegetarian,Smoothie,Quinoa Bowl,Stir Fry Vegetables,Yogurt,Balanced
+46,Male,29.252502618702103,Moderate,Heart Disease,Gluten,Vegan,Smoothie,Grilled Cheese,Steak,Granola Bar,Plant-Based
+32,Male,24.580684671442057,Active,Diabetes,Dairy,Vegetarian,Pancakes,Veggie Wrap,Pasta,Yogurt,Low Carb
+62,Female,32.76191112235401,Active,Asthma,Peanut,Vegan,Tofu Scramble,Chicken Salad,Stir Fry Vegetables,Fruits,Plant-Based
+18,Female,26.307963460410694,Sedentary,Asthma,Dairy,Non-Vegetarian,Pancakes,Quinoa Bowl,Grilled Fish,Nuts,Balanced
+24,Male,21.5611710091015,Sedentary,Diabetes,Dairy,Non-Vegetarian,"Oats, Eggs",Veggie Wrap,Pasta,Yogurt,Low Carb
+26,Female,32.83228227126758,Moderate,Heart Disease,Peanut,Non-Vegetarian,Pancakes,Lentil Soup,Grilled Fish,Fruits,Balanced
+41,Male,31.31384807106373,Sedentary,Diabetes,Gluten,Vegan,Tofu Scramble,Grilled Cheese,Veggie Burger,Chips,Low Carb
+18,Female,31.220210436626857,Active,Heart Disease,Soy,Non-Vegetarian,Pancakes,Lentil Soup,Pasta,Yogurt,Balanced
+61,Female,32.43892326392864,Moderate,Asthma,Dairy,Vegetarian,Smoothie,Quinoa Bowl,Grilled Fish,Fruits,Balanced
+25,Female,31.05689585055948,Sedentary,Asthma,Peanut,Non-Vegetarian,Avocado Toast,Veggie Wrap,Steak,Nuts,Balanced
+28,Male,20.6655404817594,Moderate,Hypertension,Gluten,Non-Vegetarian,Avocado Toast,Grilled Cheese,Grilled Fish,Nuts,Balanced
+25,Female,28.67473018959217,Active,Hypertension,Peanut,Vegetarian,Avocado Toast,Lentil Soup,Grilled Fish,Chips,Balanced
+52,Male,31.64286530110691,Active,Heart Disease,Gluten,Non-Vegetarian,"Oats, Eggs",Quinoa Bowl,Veggie Burger,Yogurt,Balanced
+52,Female,26.44511879995708,Moderate,Diabetes,Soy,Non-Vegetarian,Tofu Scramble,Chicken Salad,Pasta,Nuts,Low Carb
+50,Male,20.43558511787951,Sedentary,Hypertension,Peanut,Non-Vegetarian,Avocado Toast,Lentil Soup,Grilled Fish,Yogurt,Balanced
+22,Male,20.565565571342084,Moderate,Asthma,Gluten,Vegetarian,Tofu Scramble,Quinoa Bowl,Steak,Nuts,Balanced
+58,Female,21.80865799055556,Moderate,Hypertension,Peanut,Vegetarian,Avocado Toast,Quinoa Bowl,Grilled Fish,Fruits,Balanced
+45,Female,26.611310021233702,Active,Asthma,Peanut,Non-Vegetarian,Smoothie,Veggie Wrap,Veggie Burger,Chips,Balanced
+24,Male,19.559447461739712,Moderate,Heart Disease,Dairy,Vegetarian,"Oats, Eggs",Lentil Soup,Grilled Fish,Nuts,Balanced
+26,Female,28.10252813158758,Moderate,Diabetes,Gluten,Vegan,Pancakes,Quinoa Bowl,Pasta,Nuts,Low Carb
+25,Male,22.93839117317912,Sedentary,Asthma,Peanut,Non-Vegetarian,Pancakes,Chicken Salad,Grilled Fish,Nuts,Balanced
+29,Male,31.6597251605136,Sedentary,Diabetes,Dairy,Non-Vegetarian,Smoothie,Chicken Salad,Stir Fry Vegetables,Nuts,Low Carb
+51,Female,23.620972322238966,Active,Heart Disease,Dairy,Vegetarian,Avocado Toast,Veggie Wrap,Grilled Fish,Fruits,High Protein
+50,Male,26.01113245984972,Active,Hypertension,Peanut,Vegetarian,"Oats, Eggs",Lentil Soup,Veggie Burger,Yogurt,Balanced
+52,Female,28.40033904396851,Active,Heart Disease,Peanut,Vegan,Pancakes,Chicken Salad,Veggie Burger,Chips,Plant-Based
+61,Female,23.312432548703505,Sedentary,Asthma,Gluten,Vegan,Pancakes,Chicken Salad,Steak,Nuts,Plant-Based
+57,Female,29.96720112108796,Moderate,Asthma,Peanut,Non-Vegetarian,Tofu Scramble,Veggie Wrap,Stir Fry Vegetables,Granola Bar,Balanced
+39,Male,32.69201955362188,Active,Asthma,Peanut,Vegan,Avocado Toast,Lentil Soup,Grilled Fish,Nuts,Plant-Based
+18,Female,26.42836462975417,Moderate,Asthma,Peanut,Vegetarian,Avocado Toast,Grilled Cheese,Veggie Burger,Yogurt,Balanced
+64,Female,34.779932788907914,Active,Asthma,Gluten,Non-Vegetarian,Smoothie,Veggie Wrap,Stir Fry Vegetables,Fruits,Balanced
+20,Female,26.731654531947378,Sedentary,Diabetes,Gluten,Vegetarian,Smoothie,Lentil Soup,Steak,Nuts,Low Carb
+18,Male,28.699569616248965,Active,Asthma,Gluten,Non-Vegetarian,Pancakes,Quinoa Bowl,Veggie Burger,Chips,Balanced
+43,Male,27.73420327753408,Sedentary,Heart Disease,Gluten,Non-Vegetarian,"Oats, Eggs",Lentil Soup,Veggie Burger,Nuts,Balanced
+31,Male,18.66121898241653,Sedentary,Hypertension,Peanut,Non-Vegetarian,"Oats, Eggs",Grilled Cheese,Pasta,Nuts,Balanced
+56,Male,23.886611586025865,Active,Hypertension,Gluten,Vegetarian,Avocado Toast,Grilled Cheese,Stir Fry Vegetables,Yogurt,High Protein
+44,Male,27.04224211584774,Moderate,Heart Disease,Dairy,Vegan,Tofu Scramble,Quinoa Bowl,Steak,Chips,Plant-Based
+26,Male,19.94979723588975,Moderate,Heart Disease,Dairy,Vegetarian,Smoothie,Veggie Wrap,Steak,Granola Bar,Balanced
+32,Male,24.285344364951484,Moderate,Heart Disease,Soy,Non-Vegetarian,Tofu Scramble,Chicken Salad,Stir Fry Vegetables,Fruits,Balanced
+32,Female,19.047851295057548,Active,Hypertension,Dairy,Vegetarian,"Oats, Eggs",Veggie Wrap,Stir Fry Vegetables,Yogurt,High Protein
+43,Female,19.796545203057843,Sedentary,Heart Disease,Gluten,Non-Vegetarian,Avocado Toast,Lentil Soup,Stir Fry Vegetables,Chips,Balanced
+68,Female,27.864423996315708,Moderate,Asthma,Dairy,Vegan,Tofu Scramble,Lentil Soup,Steak,Granola Bar,Plant-Based
+49,Male,29.876171990764885,Moderate,Diabetes,Peanut,Non-Vegetarian,Smoothie,Chicken Salad,Grilled Fish,Yogurt,Low Carb
+66,Male,21.802479030039365,Sedentary,Asthma,Soy,Vegan,Pancakes,Chicken Salad,Veggie Burger,Granola Bar,Plant-Based
+49,Female,20.225369365517604,Moderate,Hypertension,Gluten,Non-Vegetarian,Pancakes,Lentil Soup,Veggie Burger,Yogurt,Balanced
+21,Female,29.001099117470005,Active,Hypertension,Gluten,Vegetarian,"Oats, Eggs",Grilled Cheese,Stir Fry Vegetables,Granola Bar,Balanced
+54,Female,19.02117138962309,Active,Hypertension,Peanut,Non-Vegetarian,Smoothie,Lentil Soup,Stir Fry Vegetables,Nuts,High Protein
+40,Male,33.947502063020885,Moderate,Heart Disease,Peanut,Vegetarian,Pancakes,Chicken Salad,Veggie Burger,Fruits,Balanced
+56,Female,19.35752618024929,Active,Asthma,Peanut,Vegan,Avocado Toast,Quinoa Bowl,Grilled Fish,Granola Bar,Plant-Based
+60,Female,32.870990541810414,Active,Hypertension,Gluten,Non-Vegetarian,Avocado Toast,Lentil Soup,Stir Fry Vegetables,Chips,Balanced
+46,Female,30.28243438018506,Active,Diabetes,Dairy,Non-Vegetarian,Avocado Toast,Quinoa Bowl,Veggie Burger,Yogurt,Low Carb
+53,Male,31.72851337065157,Active,Diabetes,Gluten,Non-Vegetarian,Smoothie,Veggie Wrap,Grilled Fish,Yogurt,Low Carb
+30,Male,24.1009281769563,Moderate,Hypertension,Soy,Vegetarian,Tofu Scramble,Veggie Wrap,Steak,Granola Bar,Balanced
+39,Female,27.53527420653665,Active,Hypertension,Peanut,Non-Vegetarian,"Oats, Eggs",Veggie Wrap,Veggie Burger,Nuts,Balanced
+45,Female,31.985413204381143,Moderate,Diabetes,Soy,Vegan,Pancakes,Veggie Wrap,Steak,Nuts,Low Carb
+62,Female,27.18564390544587,Sedentary,Heart Disease,Peanut,Vegetarian,Avocado Toast,Veggie Wrap,Grilled Fish,Nuts,Balanced
+23,Male,30.571227108962976,Moderate,Heart Disease,Soy,Vegetarian,Smoothie,Grilled Cheese,Stir Fry Vegetables,Granola Bar,Balanced
+45,Male,19.495809385844304,Active,Hypertension,Gluten,Non-Vegetarian,Smoothie,Chicken Salad,Pasta,Chips,High Protein
+61,Female,22.577203361167417,Moderate,Asthma,Peanut,Vegetarian,Pancakes,Quinoa Bowl,Veggie Burger,Fruits,Balanced
+45,Male,24.058780564223262,Moderate,Hypertension,Soy,Vegan,"Oats, Eggs",Lentil Soup,Grilled Fish,Granola Bar,Plant-Based
+18,Female,26.7202293214768,Moderate,Diabetes,Peanut,Vegetarian,Tofu Scramble,Veggie Wrap,Steak,Fruits,Low Carb
+44,Female,27.663498590470915,Moderate,Hypertension,Dairy,Non-Vegetarian,Tofu Scramble,Veggie Wrap,Pasta,Nuts,Balanced
+30,Female,22.26950323196643,Sedentary,Diabetes,Soy,Vegan,Smoothie,Grilled Cheese,Steak,Nuts,Low Carb
+58,Male,34.93950961493624,Active,Asthma,Peanut,Non-Vegetarian,"Oats, Eggs",Chicken Salad,Grilled Fish,Yogurt,Balanced
+23,Male,21.792450440330896,Sedentary,Diabetes,Gluten,Non-Vegetarian,Tofu Scramble,Lentil Soup,Grilled Fish,Fruits,Low Carb
+25,Female,29.723766000116303,Sedentary,Hypertension,Gluten,Vegan,"Oats, Eggs",Grilled Cheese,Stir Fry Vegetables,Nuts,Plant-Based
+26,Female,19.0057662863958,Moderate,Asthma,Peanut,Vegan,Smoothie,Quinoa Bowl,Grilled Fish,Chips,Plant-Based
+50,Female,26.13327878619872,Active,Asthma,Dairy,Non-Vegetarian,Tofu Scramble,Chicken Salad,Veggie Burger,Fruits,Balanced
+68,Female,32.826496339238275,Moderate,Heart Disease,Soy,Non-Vegetarian,Tofu Scramble,Lentil Soup,Stir Fry Vegetables,Fruits,Balanced
+59,Female,30.498289651144084,Sedentary,Heart Disease,Soy,Vegetarian,Smoothie,Grilled Cheese,Grilled Fish,Chips,Balanced
+61,Male,30.754657599799685,Sedentary,Asthma,Gluten,Non-Vegetarian,"Oats, Eggs",Veggie Wrap,Pasta,Nuts,Balanced
+41,Male,25.520640018393244,Sedentary,Hypertension,Soy,Vegetarian,Pancakes,Grilled Cheese,Grilled Fish,Fruits,Balanced
+49,Male,34.79621780164496,Active,Heart Disease,Dairy,Non-Vegetarian,Avocado Toast,Quinoa Bowl,Stir Fry Vegetables,Nuts,Balanced
+41,Male,19.16180165830596,Active,Asthma,Soy,Vegan,Tofu Scramble,Grilled Cheese,Pasta,Yogurt,Plant-Based
+66,Male,30.46675139684975,Moderate,Diabetes,Dairy,Vegetarian,Tofu Scramble,Grilled Cheese,Stir Fry Vegetables,Granola Bar,Low Carb
+69,Male,26.5300375335076,Sedentary,Heart Disease,Gluten,Non-Vegetarian,"Oats, Eggs",Veggie Wrap,Stir Fry Vegetables,Chips,Balanced
+56,Male,33.36158075618577,Active,Diabetes,Peanut,Vegan,"Oats, Eggs",Quinoa Bowl,Grilled Fish,Nuts,Low Carb
+20,Female,23.067658654378352,Active,Hypertension,Dairy,Non-Vegetarian,Pancakes,Grilled Cheese,Stir Fry Vegetables,Yogurt,High Protein
+66,Male,28.27378042179048,Active,Hypertension,Peanut,Vegetarian,"Oats, Eggs",Chicken Salad,Steak,Nuts,Balanced
+54,Female,33.5539952026754,Moderate,Heart Disease,Peanut,Non-Vegetarian,Pancakes,Quinoa Bowl,Steak,Chips,Balanced
+66,Female,21.9759261185935,Sedentary,Hypertension,Peanut,Non-Vegetarian,Avocado Toast,Quinoa Bowl,Veggie Burger,Chips,Balanced
+34,Male,28.778948628797465,Moderate,Diabetes,Gluten,Non-Vegetarian,Pancakes,Veggie Wrap,Stir Fry Vegetables,Granola Bar,Low Carb
+19,Male,30.59636486985213,Active,Diabetes,Dairy,Non-Vegetarian,Smoothie,Lentil Soup,Stir Fry Vegetables,Yogurt,Low Carb
+19,Female,20.670866804599783,Active,Asthma,Soy,Vegan,Avocado Toast,Quinoa Bowl,Pasta,Yogurt,Plant-Based
+45,Female,30.31111191725446,Active,Heart Disease,Soy,Vegetarian,Pancakes,Grilled Cheese,Pasta,Nuts,Balanced
+40,Male,33.499036590983074,Sedentary,Hypertension,Peanut,Vegetarian,Pancakes,Chicken Salad,Pasta,Nuts,Balanced
+54,Male,21.464771296359,Active,Asthma,Gluten,Vegan,Avocado Toast,Veggie Wrap,Steak,Fruits,Plant-Based
+19,Female,26.622584631392574,Active,Hypertension,Peanut,Non-Vegetarian,Avocado Toast,Quinoa Bowl,Stir Fry Vegetables,Fruits,Balanced
+23,Male,26.994486339839888,Active,Hypertension,Soy,Non-Vegetarian,Pancakes,Grilled Cheese,Stir Fry Vegetables,Chips,Balanced
+34,Male,24.952845354754054,Moderate,Heart Disease,Gluten,Vegan,Tofu Scramble,Veggie Wrap,Stir Fry Vegetables,Chips,Plant-Based
+55,Female,34.495303318532244,Sedentary,Hypertension,Gluten,Vegetarian,Avocado Toast,Veggie Wrap,Veggie Burger,Yogurt,Balanced
+41,Male,22.759201639568605,Sedentary,Hypertension,Soy,Vegan,Pancakes,Chicken Salad,Steak,Fruits,Plant-Based
+51,Male,31.26230657382891,Active,Heart Disease,Soy,Vegetarian,Avocado Toast,Veggie Wrap,Stir Fry Vegetables,Yogurt,Balanced
+28,Male,25.98752743283005,Active,Diabetes,Gluten,Vegetarian,Smoothie,Lentil Soup,Steak,Chips,Low Carb
+65,Male,22.394832645216656,Active,Hypertension,Soy,Vegan,Smoothie,Chicken Salad,Pasta,Nuts,Plant-Based
+26,Female,27.07627015117429,Moderate,Hypertension,Soy,Vegetarian,Smoothie,Grilled Cheese,Pasta,Chips,Balanced
+23,Female,24.060552411116223,Moderate,Diabetes,Dairy,Vegan,"Oats, Eggs",Lentil Soup,Grilled Fish,Nuts,Low Carb
+33,Female,32.17657553706306,Active,Hypertension,Soy,Vegetarian,Avocado Toast,Veggie Wrap,Pasta,Granola Bar,Balanced
+46,Female,25.6096441404198,Moderate,Hypertension,Soy,Vegan,Avocado Toast,Veggie Wrap,Stir Fry Vegetables,Nuts,Plant-Based
+20,Male,22.60378549769589,Active,Diabetes,Dairy,Vegetarian,Smoothie,Quinoa Bowl,Grilled Fish,Nuts,Low Carb
+37,Male,28.68289227896649,Moderate,Heart Disease,Soy,Vegan,Smoothie,Chicken Salad,Pasta,Granola Bar,Plant-Based
+20,Female,19.10507854440345,Active,Heart Disease,Peanut,Vegetarian,Tofu Scramble,Veggie Wrap,Veggie Burger,Yogurt,High Protein
+36,Male,30.65063324858307,Moderate,Asthma,Soy,Vegan,Avocado Toast,Chicken Salad,Steak,Yogurt,Plant-Based
+37,Male,29.452774705759783,Sedentary,Hypertension,Gluten,Vegan,"Oats, Eggs",Lentil Soup,Grilled Fish,Chips,Plant-Based
+69,Male,31.79355752367588,Moderate,Heart Disease,Gluten,Vegetarian,Avocado Toast,Veggie Wrap,Grilled Fish,Nuts,Balanced
+57,Female,21.89637996560668,Active,Asthma,Gluten,Non-Vegetarian,"Oats, Eggs",Chicken Salad,Pasta,Chips,High Protein
+35,Male,22.95086859003033,Active,Heart Disease,Dairy,Vegan,Avocado Toast,Quinoa Bowl,Steak,Chips,Plant-Based
+57,Female,19.441933125473696,Active,Asthma,Gluten,Vegan,Smoothie,Quinoa Bowl,Steak,Nuts,Plant-Based
+18,Male,27.264297212017027,Sedentary,Hypertension,Gluten,Vegetarian,"Oats, Eggs",Veggie Wrap,Stir Fry Vegetables,Yogurt,Balanced
+67,Female,25.96128396667668,Active,Hypertension,Soy,Vegan,Tofu Scramble,Veggie Wrap,Stir Fry Vegetables,Nuts,Plant-Based
+40,Male,33.90893778921043,Moderate,Asthma,Peanut,Vegetarian,Pancakes,Veggie Wrap,Veggie Burger,Nuts,Balanced
+48,Female,23.716575732116382,Sedentary,Hypertension,Dairy,Vegan,Smoothie,Chicken Salad,Steak,Yogurt,Plant-Based
+47,Male,26.86937434335848,Moderate,Diabetes,Dairy,Non-Vegetarian,"Oats, Eggs",Lentil Soup,Grilled Fish,Chips,Low Carb
+59,Male,19.18595217433147,Sedentary,Heart Disease,Peanut,Non-Vegetarian,Avocado Toast,Quinoa Bowl,Grilled Fish,Fruits,Balanced
+33,Female,34.42445849119476,Moderate,Heart Disease,Dairy,Vegan,Tofu Scramble,Chicken Salad,Veggie Burger,Chips,Plant-Based
+43,Female,18.58150968541776,Active,Hypertension,Dairy,Vegetarian,"Oats, Eggs",Veggie Wrap,Pasta,Chips,High Protein
+65,Female,34.20489445948344,Moderate,Asthma,Peanut,Vegan,Pancakes,Quinoa Bowl,Stir Fry Vegetables,Chips,Plant-Based
+69,Male,29.04547897395576,Sedentary,Heart Disease,Peanut,Vegetarian,Smoothie,Lentil Soup,Pasta,Yogurt,Balanced
+66,Male,32.820651859580366,Sedentary,Asthma,Dairy,Non-Vegetarian,Pancakes,Grilled Cheese,Veggie Burger,Fruits,Balanced
+19,Male,26.00320761795868,Sedentary,Diabetes,Gluten,Vegan,Smoothie,Chicken Salad,Steak,Granola Bar,Low Carb
+18,Female,27.007334471557627,Sedentary,Diabetes,Peanut,Non-Vegetarian,"Oats, Eggs",Chicken Salad,Grilled Fish,Fruits,Low Carb
+54,Female,18.994564232899187,Active,Asthma,Dairy,Vegetarian,Avocado Toast,Quinoa Bowl,Steak,Chips,High Protein
+49,Female,23.58084403625465,Moderate,Diabetes,Gluten,Vegetarian,Pancakes,Chicken Salad,Grilled Fish,Chips,Low Carb
+58,Female,21.83058196002865,Active,Diabetes,Dairy,Vegetarian,Pancakes,Veggie Wrap,Steak,Yogurt,Low Carb
+52,Male,29.611635149861137,Active,Diabetes,Peanut,Vegetarian,"Oats, Eggs",Veggie Wrap,Stir Fry Vegetables,Yogurt,Low Carb
+36,Male,34.50354876076996,Sedentary,Asthma,Soy,Vegan,Pancakes,Lentil Soup,Veggie Burger,Granola Bar,Plant-Based
+65,Female,20.049361810525404,Moderate,Heart Disease,Gluten,Vegetarian,Avocado Toast,Grilled Cheese,Stir Fry Vegetables,Yogurt,Balanced
+20,Male,25.821878618525425,Active,Asthma,Peanut,Vegetarian,Smoothie,Chicken Salad,Stir Fry Vegetables,Chips,Balanced
+37,Female,32.82434719722884,Moderate,Diabetes,Dairy,Non-Vegetarian,"Oats, Eggs",Veggie Wrap,Stir Fry Vegetables,Fruits,Low Carb
+41,Female,21.422971525881863,Sedentary,Diabetes,Peanut,Vegan,Avocado Toast,Veggie Wrap,Stir Fry Vegetables,Yogurt,Low Carb
+50,Male,29.92832821173172,Moderate,Heart Disease,Peanut,Non-Vegetarian,Tofu Scramble,Quinoa Bowl,Stir Fry Vegetables,Yogurt,Balanced
+28,Female,29.77359246677916,Sedentary,Hypertension,Peanut,Vegetarian,Avocado Toast,Chicken Salad,Pasta,Nuts,Balanced
+25,Male,28.69447946332003,Moderate,Heart Disease,Gluten,Vegan,Smoothie,Quinoa Bowl,Pasta,Fruits,Plant-Based
+53,Male,32.83693224389885,Moderate,Hypertension,Dairy,Vegetarian,Avocado Toast,Lentil Soup,Pasta,Granola Bar,Balanced
+55,Female,27.91506081954069,Active,Hypertension,Dairy,Vegetarian,Tofu Scramble,Veggie Wrap,Veggie Burger,Nuts,Balanced
+37,Male,33.860653475865135,Sedentary,Diabetes,Soy,Vegan,Tofu Scramble,Chicken Salad,Veggie Burger,Yogurt,Low Carb
+65,Female,29.66247086532457,Moderate,Hypertension,Peanut,Non-Vegetarian,Avocado Toast,Quinoa Bowl,Pasta,Yogurt,Balanced
+42,Female,22.05864001456233,Sedentary,Diabetes,Dairy,Vegetarian,Avocado Toast,Veggie Wrap,Grilled Fish,Nuts,Low Carb
+52,Female,29.37161025883884,Active,Heart Disease,Gluten,Vegan,Pancakes,Lentil Soup,Steak,Nuts,Plant-Based
+42,Female,24.99876269329361,Active,Diabetes,Soy,Vegetarian,Pancakes,Chicken Salad,Veggie Burger,Yogurt,Low Carb
+35,Female,20.258785000081847,Moderate,Hypertension,Dairy,Vegetarian,Avocado Toast,Grilled Cheese,Pasta,Chips,Balanced
+63,Male,29.354447525950093,Sedentary,Hypertension,Gluten,Vegan,Smoothie,Quinoa Bowl,Veggie Burger,Fruits,Plant-Based
+35,Female,34.990326475215994,Moderate,Asthma,Gluten,Vegetarian,Avocado Toast,Quinoa Bowl,Pasta,Granola Bar,Balanced
+19,Male,19.29549864119917,Active,Heart Disease,Gluten,Vegan,Tofu Scramble,Veggie Wrap,Steak,Nuts,Plant-Based
+52,Female,34.623374039651736,Sedentary,Hypertension,Soy,Vegan,Avocado Toast,Quinoa Bowl,Pasta,Granola Bar,Plant-Based
+58,Female,32.86743193056478,Sedentary,Heart Disease,Soy,Vegan,"Oats, Eggs",Grilled Cheese,Veggie Burger,Nuts,Plant-Based
+53,Male,31.40936048696151,Moderate,Heart Disease,Peanut,Vegan,"Oats, Eggs",Lentil Soup,Pasta,Chips,Plant-Based
+50,Female,27.85576830628002,Sedentary,Hypertension,Gluten,Non-Vegetarian,"Oats, Eggs",Grilled Cheese,Veggie Burger,Chips,Balanced
+21,Male,30.684411952646887,Sedentary,Heart Disease,Dairy,Non-Vegetarian,Avocado Toast,Quinoa Bowl,Veggie Burger,Yogurt,Balanced
+50,Female,32.99550676147224,Active,Hypertension,Soy,Non-Vegetarian,Smoothie,Lentil Soup,Pasta,Granola Bar,Balanced
+31,Male,25.168315307242043,Active,Diabetes,Soy,Non-Vegetarian,Tofu Scramble,Veggie Wrap,Steak,Granola Bar,Low Carb
+38,Male,23.89604716579344,Sedentary,Asthma,Gluten,Vegan,Tofu Scramble,Grilled Cheese,Veggie Burger,Yogurt,Plant-Based
+65,Female,29.515290861799148,Moderate,Diabetes,Soy,Vegetarian,Smoothie,Lentil Soup,Veggie Burger,Granola Bar,Low Carb
+37,Female,31.829458042030765,Moderate,Hypertension,Peanut,Vegan,Smoothie,Lentil Soup,Veggie Burger,Yogurt,Plant-Based
+25,Male,31.07770472381416,Active,Hypertension,Peanut,Vegan,Tofu Scramble,Lentil Soup,Veggie Burger,Nuts,Plant-Based
+24,Female,31.66392520616747,Moderate,Diabetes,Soy,Vegan,Pancakes,Chicken Salad,Pasta,Chips,Low Carb
+29,Male,18.595017898219005,Active,Heart Disease,Soy,Non-Vegetarian,Pancakes,Veggie Wrap,Veggie Burger,Yogurt,High Protein
+68,Male,23.85566619335446,Sedentary,Hypertension,Gluten,Vegan,Tofu Scramble,Veggie Wrap,Grilled Fish,Fruits,Plant-Based
+39,Female,24.546615325378063,Active,Heart Disease,Peanut,Vegetarian,"Oats, Eggs",Veggie Wrap,Steak,Fruits,High Protein
+39,Female,25.03684941155272,Moderate,Diabetes,Dairy,Vegan,Avocado Toast,Quinoa Bowl,Stir Fry Vegetables,Chips,Low Carb
+63,Female,29.97520891038273,Moderate,Asthma,Dairy,Vegan,Smoothie,Lentil Soup,Stir Fry Vegetables,Chips,Plant-Based
+47,Female,24.911208670960704,Active,Heart Disease,Gluten,Non-Vegetarian,Avocado Toast,Quinoa Bowl,Steak,Chips,High Protein
+55,Male,22.419478159426404,Active,Hypertension,Dairy,Vegan,"Oats, Eggs",Quinoa Bowl,Stir Fry Vegetables,Fruits,Plant-Based
+25,Female,19.70773274217932,Sedentary,Diabetes,Peanut,Non-Vegetarian,Pancakes,Grilled Cheese,Grilled Fish,Nuts,Low Carb
+51,Female,28.72159070915864,Moderate,Hypertension,Dairy,Non-Vegetarian,Pancakes,Quinoa Bowl,Stir Fry Vegetables,Yogurt,Balanced
+38,Male,26.147651722709444,Active,Asthma,Soy,Non-Vegetarian,Pancakes,Lentil Soup,Veggie Burger,Nuts,Balanced
+47,Male,24.76646537295729,Moderate,Hypertension,Dairy,Vegan,Avocado Toast,Lentil Soup,Steak,Yogurt,Plant-Based
+45,Male,27.0648494547476,Active,Diabetes,Peanut,Non-Vegetarian,Pancakes,Quinoa Bowl,Stir Fry Vegetables,Granola Bar,Low Carb
+50,Male,18.923094085806188,Sedentary,Asthma,Soy,Non-Vegetarian,Avocado Toast,Veggie Wrap,Stir Fry Vegetables,Yogurt,Balanced
+22,Female,24.13058915583158,Sedentary,Heart Disease,Dairy,Vegan,Smoothie,Lentil Soup,Grilled Fish,Nuts,Plant-Based
+52,Female,27.30444202099349,Moderate,Heart Disease,Peanut,Vegetarian,Pancakes,Quinoa Bowl,Grilled Fish,Chips,Balanced
+61,Male,31.914264688815543,Moderate,Heart Disease,Gluten,Non-Vegetarian,Tofu Scramble,Lentil Soup,Pasta,Yogurt,Balanced
+52,Female,29.183332783550952,Active,Asthma,Dairy,Vegetarian,Pancakes,Grilled Cheese,Steak,Fruits,Balanced
+58,Male,33.31750405767478,Moderate,Diabetes,Soy,Vegetarian,Pancakes,Lentil Soup,Veggie Burger,Nuts,Low Carb
+41,Male,33.796069989139056,Active,Diabetes,Peanut,Vegetarian,Tofu Scramble,Veggie Wrap,Pasta,Nuts,Low Carb
+66,Male,33.91819444229098,Active,Hypertension,Peanut,Vegan,Tofu Scramble,Lentil Soup,Grilled Fish,Granola Bar,Plant-Based
+63,Male,24.301774339453967,Active,Diabetes,Gluten,Vegetarian,Avocado Toast,Lentil Soup,Pasta,Chips,Low Carb
+48,Female,20.17344366941208,Active,Hypertension,Soy,Vegan,Pancakes,Veggie Wrap,Grilled Fish,Fruits,Plant-Based
+50,Male,22.73681336738838,Moderate,Hypertension,Gluten,Vegetarian,"Oats, Eggs",Grilled Cheese,Grilled Fish,Nuts,Balanced
+69,Female,23.200402882371726,Active,Asthma,Gluten,Vegan,Avocado Toast,Grilled Cheese,Pasta,Granola Bar,Plant-Based
+49,Male,31.749927314238946,Sedentary,Heart Disease,Gluten,Vegan,Avocado Toast,Veggie Wrap,Stir Fry Vegetables,Granola Bar,Plant-Based
+20,Male,28.57050742463015,Moderate,Hypertension,Dairy,Non-Vegetarian,Tofu Scramble,Grilled Cheese,Steak,Nuts,Balanced
+42,Female,22.998296012103307,Moderate,Hypertension,Gluten,Vegetarian,Pancakes,Chicken Salad,Stir Fry Vegetables,Nuts,Balanced
+59,Female,25.3235601751683,Sedentary,Diabetes,Gluten,Non-Vegetarian,Smoothie,Lentil Soup,Grilled Fish,Fruits,Low Carb
+48,Male,20.51112054005964,Moderate,Hypertension,Dairy,Vegetarian,Tofu Scramble,Lentil Soup,Veggie Burger,Chips,Balanced
+20,Female,21.488964267322224,Active,Heart Disease,Dairy,Non-Vegetarian,Pancakes,Veggie Wrap,Pasta,Nuts,High Protein
+63,Male,21.493732736977844,Sedentary,Hypertension,Soy,Non-Vegetarian,Tofu Scramble,Quinoa Bowl,Grilled Fish,Fruits,Balanced
+64,Female,27.860651623876908,Active,Diabetes,Gluten,Vegetarian,Pancakes,Chicken Salad,Stir Fry Vegetables,Yogurt,Low Carb
+39,Female,22.7332859310725,Moderate,Heart Disease,Peanut,Non-Vegetarian,Smoothie,Chicken Salad,Veggie Burger,Granola Bar,Balanced
+44,Male,31.798877071290107,Sedentary,Asthma,Gluten,Vegetarian,Pancakes,Lentil Soup,Grilled Fish,Nuts,Balanced
+59,Male,27.57873794557832,Active,Heart Disease,Dairy,Vegetarian,Tofu Scramble,Grilled Cheese,Stir Fry Vegetables,Fruits,Balanced
+34,Female,34.19815514640984,Moderate,Asthma,Dairy,Vegan,"Oats, Eggs",Veggie Wrap,Steak,Chips,Plant-Based
+57,Male,28.426595032414465,Moderate,Hypertension,Gluten,Vegan,Tofu Scramble,Quinoa Bowl,Grilled Fish,Chips,Plant-Based
+50,Male,32.01661618054204,Active,Diabetes,Dairy,Non-Vegetarian,Tofu Scramble,Quinoa Bowl,Steak,Nuts,Low Carb
+26,Female,33.08940664524873,Sedentary,Hypertension,Soy,Non-Vegetarian,Smoothie,Veggie Wrap,Veggie Burger,Chips,Balanced
+60,Female,22.263316237157387,Moderate,Asthma,Dairy,Vegetarian,Avocado Toast,Chicken Salad,Steak,Chips,Balanced
+65,Female,21.99873985848574,Sedentary,Diabetes,Gluten,Vegetarian,Pancakes,Grilled Cheese,Grilled Fish,Fruits,Low Carb
+46,Male,25.281969751810628,Moderate,Diabetes,Peanut,Vegetarian,Pancakes,Chicken Salad,Veggie Burger,Fruits,Low Carb
+43,Female,33.35038153606718,Sedentary,Hypertension,Gluten,Non-Vegetarian,Pancakes,Lentil Soup,Grilled Fish,Chips,Balanced
+52,Male,24.331452758494848,Moderate,Diabetes,Peanut,Non-Vegetarian,Pancakes,Quinoa Bowl,Stir Fry Vegetables,Yogurt,Low Carb
+67,Male,22.408364223078955,Sedentary,Diabetes,Peanut,Vegetarian,Smoothie,Veggie Wrap,Pasta,Chips,Low Carb
+42,Male,31.37867100152372,Sedentary,Diabetes,Soy,Non-Vegetarian,Tofu Scramble,Quinoa Bowl,Stir Fry Vegetables,Chips,Low Carb
+41,Female,23.034299586544247,Moderate,Hypertension,Peanut,Vegetarian,Pancakes,Lentil Soup,Grilled Fish,Fruits,Balanced
+30,Male,32.073136255475696,Active,Heart Disease,Gluten,Non-Vegetarian,Avocado Toast,Chicken Salad,Grilled Fish,Fruits,Balanced
+24,Female,25.491681185204587,Moderate,Hypertension,Gluten,Non-Vegetarian,Pancakes,Quinoa Bowl,Pasta,Granola Bar,Balanced
+53,Male,29.514573338309265,Active,Asthma,Dairy,Non-Vegetarian,"Oats, Eggs",Grilled Cheese,Grilled Fish,Nuts,Balanced
+62,Male,20.076332678272024,Sedentary,Hypertension,Dairy,Non-Vegetarian,"Oats, Eggs",Grilled Cheese,Pasta,Granola Bar,Balanced
+37,Male,28.793678857163457,Sedentary,Diabetes,Dairy,Vegetarian,"Oats, Eggs",Chicken Salad,Pasta,Granola Bar,Low Carb
+25,Male,28.179039642395324,Sedentary,Hypertension,Peanut,Non-Vegetarian,Smoothie,Grilled Cheese,Steak,Chips,Balanced
+63,Female,21.272234427790245,Active,Hypertension,Soy,Vegetarian,Avocado Toast,Grilled Cheese,Pasta,Chips,High Protein
+33,Female,30.658416791579008,Active,Diabetes,Dairy,Vegetarian,Pancakes,Veggie Wrap,Grilled Fish,Chips,Low Carb
+40,Male,18.89003666976455,Moderate,Hypertension,Peanut,Vegetarian,Pancakes,Lentil Soup,Veggie Burger,Chips,Balanced
+51,Female,27.52050730978216,Active,Heart Disease,Gluten,Non-Vegetarian,Smoothie,Quinoa Bowl,Pasta,Granola Bar,Balanced
+19,Female,22.327127085913595,Active,Heart Disease,Peanut,Vegan,Pancakes,Grilled Cheese,Grilled Fish,Fruits,Plant-Based
+40,Female,28.30885953057185,Active,Asthma,Soy,Vegetarian,"Oats, Eggs",Quinoa Bowl,Grilled Fish,Yogurt,Balanced
+68,Female,34.79846108354564,Moderate,Diabetes,Soy,Non-Vegetarian,"Oats, Eggs",Grilled Cheese,Stir Fry Vegetables,Nuts,Low Carb
+42,Male,20.751255917186096,Sedentary,Hypertension,Gluten,Vegan,Tofu Scramble,Quinoa Bowl,Pasta,Yogurt,Plant-Based
+39,Male,29.96988514178529,Active,Asthma,Soy,Non-Vegetarian,Pancakes,Veggie Wrap,Steak,Granola Bar,Balanced
+39,Female,25.17125967372082,Active,Diabetes,Peanut,Non-Vegetarian,Tofu Scramble,Veggie Wrap,Grilled Fish,Nuts,Low Carb
+66,Female,25.565293646272643,Sedentary,Asthma,Peanut,Non-Vegetarian,Smoothie,Grilled Cheese,Steak,Granola Bar,Balanced
+69,Female,30.340363133359908,Active,Diabetes,Soy,Vegan,Smoothie,Lentil Soup,Veggie Burger,Nuts,Low Carb
+59,Female,29.9251964968521,Active,Hypertension,Soy,Non-Vegetarian,Avocado Toast,Grilled Cheese,Pasta,Chips,Balanced
+23,Male,34.855723896086104,Active,Hypertension,Soy,Non-Vegetarian,Smoothie,Veggie Wrap,Pasta,Nuts,Balanced
+32,Female,20.618505775993064,Active,Heart Disease,Dairy,Non-Vegetarian,Tofu Scramble,Chicken Salad,Veggie Burger,Fruits,High Protein
+60,Female,20.217809214838745,Active,Diabetes,Peanut,Non-Vegetarian,Smoothie,Chicken Salad,Grilled Fish,Chips,Low Carb
+54,Female,30.45159048262423,Sedentary,Heart Disease,Peanut,Vegetarian,Pancakes,Quinoa Bowl,Veggie Burger,Granola Bar,Balanced
+50,Male,28.04338413060575,Active,Diabetes,Dairy,Non-Vegetarian,Smoothie,Quinoa Bowl,Grilled Fish,Chips,Low Carb
+25,Male,23.0236509982368,Sedentary,Heart Disease,Soy,Vegetarian,Avocado Toast,Chicken Salad,Stir Fry Vegetables,Chips,Balanced
+61,Female,19.81041958831828,Active,Hypertension,Gluten,Non-Vegetarian,Smoothie,Veggie Wrap,Pasta,Granola Bar,High Protein
+61,Male,19.913361118341104,Moderate,Asthma,Soy,Vegan,Tofu Scramble,Quinoa Bowl,Grilled Fish,Granola Bar,Plant-Based
+22,Female,33.25414943195796,Moderate,Heart Disease,Soy,Vegetarian,Tofu Scramble,Grilled Cheese,Steak,Fruits,Balanced
+56,Male,21.665810857859256,Moderate,Diabetes,Dairy,Vegetarian,Smoothie,Grilled Cheese,Steak,Granola Bar,Low Carb
+21,Male,23.835630774906093,Moderate,Diabetes,Peanut,Vegetarian,Tofu Scramble,Veggie Wrap,Pasta,Yogurt,Low Carb
+23,Male,22.239830636745303,Sedentary,Hypertension,Soy,Vegetarian,Tofu Scramble,Quinoa Bowl,Veggie Burger,Yogurt,Balanced
+62,Male,24.357439046226965,Sedentary,Diabetes,Peanut,Vegan,Avocado Toast,Grilled Cheese,Veggie Burger,Fruits,Low Carb
+69,Female,27.064486549986466,Moderate,Asthma,Peanut,Vegetarian,Avocado Toast,Quinoa Bowl,Veggie Burger,Nuts,Balanced
+47,Female,19.615607299271545,Sedentary,Heart Disease,Gluten,Vegan,"Oats, Eggs",Grilled Cheese,Pasta,Yogurt,Plant-Based
+64,Male,31.705882379068967,Active,Asthma,Gluten,Vegetarian,Avocado Toast,Chicken Salad,Grilled Fish,Granola Bar,Balanced
+52,Female,22.356249351522145,Active,Hypertension,Soy,Non-Vegetarian,Smoothie,Grilled Cheese,Stir Fry Vegetables,Fruits,High Protein
+57,Female,27.410196590974422,Sedentary,Heart Disease,Peanut,Vegetarian,Pancakes,Veggie Wrap,Veggie Burger,Nuts,Balanced
+69,Female,33.02130494476406,Moderate,Heart Disease,Soy,Vegan,Smoothie,Lentil Soup,Veggie Burger,Nuts,Plant-Based
+30,Male,27.29380347809704,Moderate,Hypertension,Gluten,Vegan,Pancakes,Quinoa Bowl,Steak,Yogurt,Plant-Based
+67,Male,23.851506926403697,Moderate,Diabetes,Soy,Non-Vegetarian,Tofu Scramble,Quinoa Bowl,Veggie Burger,Granola Bar,Low Carb
+36,Female,34.90329946014926,Moderate,Asthma,Peanut,Vegetarian,"Oats, Eggs",Grilled Cheese,Stir Fry Vegetables,Chips,Balanced
+34,Male,29.420346632514747,Active,Asthma,Peanut,Vegan,Tofu Scramble,Lentil Soup,Veggie Burger,Yogurt,Plant-Based
+36,Male,27.70342638660541,Moderate,Asthma,Peanut,Vegan,Avocado Toast,Lentil Soup,Steak,Yogurt,Plant-Based
+54,Male,19.492348652912955,Sedentary,Heart Disease,Dairy,Vegetarian,Pancakes,Quinoa Bowl,Veggie Burger,Fruits,Balanced
+43,Male,27.77789746198551,Moderate,Asthma,Dairy,Non-Vegetarian,Tofu Scramble,Lentil Soup,Steak,Fruits,Balanced
+40,Male,34.30081719433878,Moderate,Diabetes,Peanut,Vegan,Tofu Scramble,Quinoa Bowl,Grilled Fish,Chips,Low Carb
+29,Male,29.885080698540985,Active,Asthma,Peanut,Vegetarian,Pancakes,Lentil Soup,Grilled Fish,Granola Bar,Balanced
+18,Male,27.34115679380584,Sedentary,Hypertension,Peanut,Vegan,Avocado Toast,Chicken Salad,Grilled Fish,Yogurt,Plant-Based
+64,Male,20.095161419170875,Sedentary,Hypertension,Gluten,Vegetarian,Tofu Scramble,Veggie Wrap,Pasta,Chips,Balanced
+51,Female,25.931120448260053,Active,Heart Disease,Gluten,Vegetarian,Pancakes,Quinoa Bowl,Veggie Burger,Granola Bar,Balanced
+49,Female,30.97669492677156,Sedentary,Asthma,Soy,Non-Vegetarian,"Oats, Eggs",Chicken Salad,Grilled Fish,Nuts,Balanced
+42,Male,29.471043454039098,Active,Heart Disease,Dairy,Vegetarian,Pancakes,Grilled Cheese,Grilled Fish,Nuts,Balanced
+57,Male,31.62492435303053,Moderate,Heart Disease,Soy,Vegetarian,Avocado Toast,Chicken Salad,Grilled Fish,Granola Bar,Balanced
+62,Male,33.79843402141097,Active,Heart Disease,Gluten,Non-Vegetarian,Tofu Scramble,Lentil Soup,Pasta,Fruits,Balanced
+18,Male,22.371594350614984,Active,Hypertension,Peanut,Non-Vegetarian,"Oats, Eggs",Lentil Soup,Steak,Granola Bar,High Protein
+33,Male,25.088712610853584,Active,Diabetes,Soy,Non-Vegetarian,Pancakes,Quinoa Bowl,Steak,Chips,Low Carb
+22,Male,34.87597778561319,Sedentary,Asthma,Gluten,Vegan,Tofu Scramble,Lentil Soup,Pasta,Yogurt,Plant-Based
+39,Female,33.79551597075087,Moderate,Asthma,Soy,Non-Vegetarian,"Oats, Eggs",Lentil Soup,Pasta,Chips,Balanced
+46,Female,27.40929264962924,Moderate,Diabetes,Gluten,Vegetarian,"Oats, Eggs",Grilled Cheese,Grilled Fish,Nuts,Low Carb
+43,Female,28.789163852045533,Sedentary,Asthma,Peanut,Vegetarian,Avocado Toast,Chicken Salad,Stir Fry Vegetables,Fruits,Balanced
+33,Female,19.97055312991428,Moderate,Asthma,Dairy,Vegan,Pancakes,Quinoa Bowl,Grilled Fish,Chips,Plant-Based
+68,Female,30.96196193819733,Sedentary,Heart Disease,Gluten,Vegetarian,Smoothie,Lentil Soup,Stir Fry Vegetables,Yogurt,Balanced
+54,Female,20.607272479981376,Active,Diabetes,Dairy,Vegan,Pancakes,Lentil Soup,Stir Fry Vegetables,Yogurt,Low Carb
+46,Male,31.403463446561368,Sedentary,Diabetes,Soy,Vegetarian,Tofu Scramble,Chicken Salad,Stir Fry Vegetables,Chips,Low Carb
+31,Female,30.19428751275911,Active,Diabetes,Soy,Vegetarian,Tofu Scramble,Quinoa Bowl,Veggie Burger,Yogurt,Low Carb
+64,Male,22.841357403528907,Moderate,Asthma,Gluten,Vegan,Tofu Scramble,Grilled Cheese,Stir Fry Vegetables,Granola Bar,Plant-Based
+66,Female,24.442250723280065,Active,Asthma,Dairy,Vegetarian,Tofu Scramble,Lentil Soup,Stir Fry Vegetables,Nuts,High Protein
+63,Female,33.95980408001253,Active,Hypertension,Gluten,Vegan,Smoothie,Grilled Cheese,Stir Fry Vegetables,Nuts,Plant-Based
+69,Male,27.637736971754208,Sedentary,Asthma,Gluten,Vegetarian,Pancakes,Veggie Wrap,Pasta,Granola Bar,Balanced
+22,Male,23.54115112585739,Sedentary,Hypertension,Gluten,Vegetarian,Avocado Toast,Lentil Soup,Grilled Fish,Yogurt,Balanced
+43,Male,28.409806500450188,Moderate,Diabetes,Soy,Vegetarian,"Oats, Eggs",Quinoa Bowl,Steak,Fruits,Low Carb
+38,Male,26.6998974679462,Sedentary,Hypertension,Dairy,Vegan,Avocado Toast,Quinoa Bowl,Grilled Fish,Nuts,Plant-Based
+50,Male,21.94042348689604,Sedentary,Asthma,Gluten,Vegetarian,Smoothie,Veggie Wrap,Grilled Fish,Fruits,Balanced
+47,Female,33.85482104162462,Sedentary,Asthma,Gluten,Vegetarian,"Oats, Eggs",Grilled Cheese,Stir Fry Vegetables,Fruits,Balanced
+54,Male,20.42004556511036,Moderate,Asthma,Peanut,Non-Vegetarian,"Oats, Eggs",Chicken Salad,Grilled Fish,Chips,Balanced
+53,Female,32.82293538677293,Moderate,Asthma,Peanut,Vegan,Avocado Toast,Lentil Soup,Stir Fry Vegetables,Granola Bar,Plant-Based
+69,Female,31.53550219906652,Moderate,Asthma,Peanut,Vegetarian,Tofu Scramble,Lentil Soup,Pasta,Fruits,Balanced
+48,Male,23.52720579511768,Active,Heart Disease,Soy,Vegan,Avocado Toast,Grilled Cheese,Steak,Fruits,Plant-Based
+27,Male,19.83516817034566,Moderate,Diabetes,Gluten,Vegetarian,Smoothie,Chicken Salad,Pasta,Granola Bar,Low Carb
+18,Male,29.96669296689062,Moderate,Hypertension,Peanut,Non-Vegetarian,Smoothie,Chicken Salad,Grilled Fish,Yogurt,Balanced
+22,Female,24.21064548787346,Active,Diabetes,Peanut,Non-Vegetarian,Tofu Scramble,Quinoa Bowl,Pasta,Nuts,Low Carb
+62,Male,34.59756831418859,Sedentary,Hypertension,Dairy,Vegan,Tofu Scramble,Quinoa Bowl,Veggie Burger,Yogurt,Plant-Based
+21,Female,29.07603927619797,Moderate,Diabetes,Gluten,Vegan,Avocado Toast,Chicken Salad,Grilled Fish,Nuts,Low Carb
+33,Male,32.07092929996696,Sedentary,Diabetes,Dairy,Vegan,Avocado Toast,Lentil Soup,Veggie Burger,Fruits,Low Carb
+41,Male,20.6866571002405,Moderate,Heart Disease,Gluten,Vegetarian,Smoothie,Quinoa Bowl,Veggie Burger,Chips,Balanced
+33,Male,32.723238957498275,Moderate,Hypertension,Dairy,Vegan,"Oats, Eggs",Veggie Wrap,Grilled Fish,Fruits,Plant-Based
+19,Female,33.725493643471005,Moderate,Heart Disease,Dairy,Non-Vegetarian,Pancakes,Grilled Cheese,Grilled Fish,Granola Bar,Balanced
+66,Female,26.53652166051244,Moderate,Diabetes,Soy,Vegan,"Oats, Eggs",Quinoa Bowl,Veggie Burger,Granola Bar,Low Carb
+49,Male,31.119361714899423,Active,Diabetes,Peanut,Vegetarian,Smoothie,Lentil Soup,Steak,Granola Bar,Low Carb
+44,Female,21.384837349796808,Moderate,Heart Disease,Dairy,Vegetarian,"Oats, Eggs",Grilled Cheese,Steak,Fruits,Balanced
+37,Female,26.7923402616468,Moderate,Hypertension,Gluten,Non-Vegetarian,Pancakes,Quinoa Bowl,Stir Fry Vegetables,Yogurt,Balanced
+41,Female,25.077939958243167,Active,Hypertension,Dairy,Vegetarian,"Oats, Eggs",Lentil Soup,Grilled Fish,Fruits,Balanced
+67,Female,24.56431796781027,Active,Hypertension,Gluten,Vegetarian,Tofu Scramble,Lentil Soup,Steak,Granola Bar,High Protein
+60,Female,27.56723734226778,Moderate,Hypertension,Peanut,Vegetarian,"Oats, Eggs",Quinoa Bowl,Grilled Fish,Fruits,Balanced
+29,Female,25.63621499244718,Moderate,Diabetes,Soy,Vegan,"Oats, Eggs",Chicken Salad,Stir Fry Vegetables,Nuts,Low Carb
+20,Female,23.644966195906783,Moderate,Diabetes,Gluten,Vegetarian,Avocado Toast,Chicken Salad,Steak,Nuts,Low Carb
+50,Female,25.751942862443016,Active,Asthma,Gluten,Vegan,"Oats, Eggs",Veggie Wrap,Steak,Yogurt,Plant-Based
+27,Female,29.073634192388404,Sedentary,Diabetes,Soy,Non-Vegetarian,"Oats, Eggs",Chicken Salad,Stir Fry Vegetables,Chips,Low Carb
+61,Female,28.72320125581419,Moderate,Asthma,Gluten,Vegetarian,Avocado Toast,Chicken Salad,Steak,Granola Bar,Balanced
+30,Female,21.00841007662269,Sedentary,Diabetes,Soy,Non-Vegetarian,Avocado Toast,Veggie Wrap,Steak,Nuts,Low Carb
+48,Male,31.38256617012926,Active,Asthma,Peanut,Vegetarian,Tofu Scramble,Quinoa Bowl,Veggie Burger,Chips,Balanced
+19,Male,19.45970262584035,Moderate,Asthma,Dairy,Vegan,Smoothie,Veggie Wrap,Stir Fry Vegetables,Yogurt,Plant-Based
+68,Male,34.915294233301154,Moderate,Asthma,Dairy,Vegan,Tofu Scramble,Quinoa Bowl,Steak,Fruits,Plant-Based
+52,Male,29.968081276166128,Sedentary,Diabetes,Gluten,Non-Vegetarian,Smoothie,Chicken Salad,Steak,Yogurt,Low Carb
+43,Male,20.847114583338737,Active,Asthma,Gluten,Vegetarian,Smoothie,Grilled Cheese,Pasta,Granola Bar,High Protein
+25,Male,20.50285150047008,Sedentary,Diabetes,Peanut,Non-Vegetarian,Pancakes,Chicken Salad,Stir Fry Vegetables,Nuts,Low Carb
+43,Male,20.167255881675672,Moderate,Hypertension,Peanut,Non-Vegetarian,Avocado Toast,Chicken Salad,Grilled Fish,Chips,Balanced
+27,Female,29.920662137953176,Sedentary,Diabetes,Gluten,Non-Vegetarian,"Oats, Eggs",Chicken Salad,Grilled Fish,Nuts,Low Carb
+51,Male,26.90546511447153,Sedentary,Asthma,Gluten,Non-Vegetarian,Avocado Toast,Lentil Soup,Stir Fry Vegetables,Yogurt,Balanced
+21,Female,23.55318474297909,Sedentary,Hypertension,Peanut,Vegan,Pancakes,Chicken Salad,Stir Fry Vegetables,Nuts,Plant-Based
+28,Female,25.53037583419113,Moderate,Asthma,Dairy,Vegan,Smoothie,Chicken Salad,Grilled Fish,Chips,Plant-Based
+46,Male,20.65672121621329,Sedentary,Hypertension,Peanut,Non-Vegetarian,Avocado Toast,Lentil Soup,Steak,Fruits,Balanced
+53,Male,33.128969551467705,Moderate,Asthma,Peanut,Vegetarian,Tofu Scramble,Grilled Cheese,Grilled Fish,Chips,Balanced
+42,Male,25.921446705551823,Moderate,Asthma,Dairy,Vegetarian,Smoothie,Veggie Wrap,Grilled Fish,Yogurt,Balanced
+38,Female,21.711271445042623,Active,Hypertension,Gluten,Non-Vegetarian,Smoothie,Quinoa Bowl,Steak,Chips,High Protein
+27,Female,25.33314091672729,Active,Heart Disease,Gluten,Vegan,Tofu Scramble,Grilled Cheese,Pasta,Nuts,Plant-Based
+26,Female,30.60463727926313,Moderate,Heart Disease,Peanut,Non-Vegetarian,Pancakes,Grilled Cheese,Grilled Fish,Granola Bar,Balanced
+66,Female,25.366540969966067,Active,Asthma,Peanut,Vegan,Smoothie,Grilled Cheese,Stir Fry Vegetables,Granola Bar,Plant-Based
+53,Male,22.786917944293062,Active,Hypertension,Gluten,Vegan,Avocado Toast,Grilled Cheese,Steak,Fruits,Plant-Based
+35,Male,31.04478208151523,Moderate,Heart Disease,Soy,Vegetarian,Avocado Toast,Veggie Wrap,Steak,Yogurt,Balanced
+66,Female,20.762310144528485,Sedentary,Hypertension,Gluten,Vegetarian,Smoothie,Lentil Soup,Grilled Fish,Chips,Balanced
+49,Female,22.05083088828442,Moderate,Asthma,Gluten,Vegetarian,Pancakes,Quinoa Bowl,Pasta,Granola Bar,Balanced
+41,Male,18.69999278162424,Active,Hypertension,Peanut,Vegetarian,Tofu Scramble,Veggie Wrap,Grilled Fish,Granola Bar,High Protein
+40,Male,22.47982405039244,Sedentary,Hypertension,Peanut,Vegan,Avocado Toast,Lentil Soup,Veggie Burger,Chips,Plant-Based
+49,Female,34.601916956015884,Sedentary,Diabetes,Soy,Vegan,Pancakes,Grilled Cheese,Steak,Chips,Low Carb
+29,Male,34.33301463129705,Sedentary,Asthma,Soy,Vegetarian,"Oats, Eggs",Quinoa Bowl,Pasta,Nuts,Balanced
+66,Male,26.54959172478498,Moderate,Hypertension,Peanut,Vegetarian,Smoothie,Quinoa Bowl,Pasta,Yogurt,Balanced
+52,Male,32.43189186520367,Moderate,Diabetes,Peanut,Vegetarian,Avocado Toast,Veggie Wrap,Veggie Burger,Fruits,Low Carb
+58,Female,20.11836258294004,Sedentary,Hypertension,Peanut,Vegetarian,Smoothie,Veggie Wrap,Stir Fry Vegetables,Nuts,Balanced
+47,Female,26.55597876085934,Active,Diabetes,Gluten,Non-Vegetarian,Tofu Scramble,Grilled Cheese,Stir Fry Vegetables,Nuts,Low Carb
+34,Female,20.97580296745074,Active,Heart Disease,Dairy,Non-Vegetarian,Pancakes,Chicken Salad,Stir Fry Vegetables,Nuts,High Protein
+37,Male,30.66639177689869,Active,Heart Disease,Dairy,Vegan,Smoothie,Chicken Salad,Steak,Nuts,Plant-Based
+65,Male,26.354299134584647,Active,Heart Disease,Dairy,Non-Vegetarian,Tofu Scramble,Quinoa Bowl,Pasta,Granola Bar,Balanced
+42,Male,24.702156704905192,Moderate,Heart Disease,Soy,Vegetarian,"Oats, Eggs",Veggie Wrap,Grilled Fish,Chips,Balanced
+36,Male,31.45277297331144,Sedentary,Asthma,Dairy,Vegetarian,Pancakes,Grilled Cheese,Pasta,Yogurt,Balanced
+66,Female,33.219397367513864,Active,Diabetes,Peanut,Vegetarian,"Oats, Eggs",Grilled Cheese,Veggie Burger,Chips,Low Carb
+29,Female,31.48390587321237,Sedentary,Asthma,Soy,Non-Vegetarian,Tofu Scramble,Chicken Salad,Steak,Granola Bar,Balanced
+58,Female,23.70421377984221,Sedentary,Asthma,Soy,Vegan,Pancakes,Grilled Cheese,Steak,Yogurt,Plant-Based
+36,Female,29.854222650427943,Sedentary,Heart Disease,Peanut,Vegan,Tofu Scramble,Quinoa Bowl,Pasta,Fruits,Plant-Based
+24,Female,32.374381060527725,Sedentary,Diabetes,Peanut,Vegan,Smoothie,Chicken Salad,Pasta,Granola Bar,Low Carb
+45,Female,19.13403475787836,Active,Asthma,Gluten,Vegan,Pancakes,Lentil Soup,Steak,Yogurt,Plant-Based
+31,Female,33.37907287023449,Moderate,Hypertension,Soy,Vegan,Avocado Toast,Chicken Salad,Pasta,Fruits,Plant-Based
+48,Male,26.114378166308114,Moderate,Hypertension,Soy,Vegetarian,Smoothie,Veggie Wrap,Stir Fry Vegetables,Granola Bar,Balanced
+69,Male,29.013824367336625,Sedentary,Hypertension,Dairy,Non-Vegetarian,Avocado Toast,Veggie Wrap,Pasta,Chips,Balanced
+36,Male,29.37933971639541,Moderate,Hypertension,Peanut,Vegan,"Oats, Eggs",Veggie Wrap,Stir Fry Vegetables,Granola Bar,Plant-Based
+64,Male,33.26944272165785,Moderate,Heart Disease,Dairy,Non-Vegetarian,Smoothie,Veggie Wrap,Steak,Granola Bar,Balanced
+33,Female,29.00504975575892,Moderate,Hypertension,Dairy,Vegan,Smoothie,Quinoa Bowl,Veggie Burger,Chips,Plant-Based
+52,Female,19.599758669251383,Sedentary,Heart Disease,Soy,Non-Vegetarian,Avocado Toast,Veggie Wrap,Veggie Burger,Chips,Balanced
+29,Male,27.053732362095868,Moderate,Hypertension,Dairy,Non-Vegetarian,Smoothie,Veggie Wrap,Veggie Burger,Chips,Balanced
+69,Male,30.66765718390451,Sedentary,Hypertension,Peanut,Vegetarian,Pancakes,Lentil Soup,Steak,Fruits,Balanced
+38,Female,26.95166169340913,Active,Hypertension,Dairy,Vegan,Pancakes,Chicken Salad,Grilled Fish,Yogurt,Plant-Based
+53,Male,29.72375835693783,Moderate,Hypertension,Soy,Vegetarian,Avocado Toast,Lentil Soup,Veggie Burger,Fruits,Balanced
+40,Female,19.18760285993934,Active,Diabetes,Dairy,Non-Vegetarian,"Oats, Eggs",Lentil Soup,Veggie Burger,Chips,Low Carb
+62,Male,19.68939154397811,Active,Heart Disease,Soy,Vegan,Smoothie,Veggie Wrap,Pasta,Chips,Plant-Based
+56,Female,18.699789841375644,Sedentary,Diabetes,Soy,Non-Vegetarian,Smoothie,Chicken Salad,Veggie Burger,Yogurt,Low Carb
+22,Female,24.32864824028406,Active,Heart Disease,Soy,Vegan,Avocado Toast,Chicken Salad,Pasta,Chips,Plant-Based
+40,Male,24.27010329080652,Active,Diabetes,Peanut,Vegan,Pancakes,Quinoa Bowl,Grilled Fish,Nuts,Low Carb
+46,Female,31.2817832644895,Moderate,Diabetes,Dairy,Non-Vegetarian,Smoothie,Grilled Cheese,Grilled Fish,Nuts,Low Carb
+35,Male,21.3728040330124,Sedentary,Diabetes,Peanut,Non-Vegetarian,"Oats, Eggs",Quinoa Bowl,Pasta,Fruits,Low Carb
+64,Female,20.12352822027105,Moderate,Heart Disease,Peanut,Non-Vegetarian,Avocado Toast,Veggie Wrap,Pasta,Chips,Balanced
+26,Female,31.11214892665864,Moderate,Hypertension,Dairy,Vegan,Pancakes,Lentil Soup,Stir Fry Vegetables,Chips,Plant-Based
+27,Female,22.873266067362565,Moderate,Asthma,Soy,Vegan,Avocado Toast,Veggie Wrap,Grilled Fish,Yogurt,Plant-Based
+61,Male,18.84559185701006,Sedentary,Hypertension,Gluten,Vegetarian,Tofu Scramble,Quinoa Bowl,Steak,Yogurt,Balanced
+34,Female,19.85583251336105,Sedentary,Heart Disease,Dairy,Vegan,Avocado Toast,Grilled Cheese,Pasta,Yogurt,Plant-Based
+55,Male,34.469690574943,Sedentary,Asthma,Peanut,Vegetarian,Smoothie,Chicken Salad,Veggie Burger,Granola Bar,Balanced
+24,Male,23.374838828377435,Sedentary,Hypertension,Dairy,Vegan,Tofu Scramble,Lentil Soup,Grilled Fish,Fruits,Plant-Based
+57,Male,24.802004054272786,Sedentary,Heart Disease,Soy,Non-Vegetarian,Tofu Scramble,Chicken Salad,Stir Fry Vegetables,Yogurt,Balanced
+44,Male,31.281457380523506,Sedentary,Hypertension,Soy,Vegan,Avocado Toast,Grilled Cheese,Grilled Fish,Chips,Plant-Based
+19,Female,29.12442018342865,Sedentary,Asthma,Peanut,Vegetarian,Avocado Toast,Grilled Cheese,Grilled Fish,Granola Bar,Balanced
+22,Male,27.24998519861112,Moderate,Diabetes,Soy,Vegan,Tofu Scramble,Chicken Salad,Pasta,Yogurt,Low Carb
+46,Female,19.192195186622,Active,Heart Disease,Dairy,Vegetarian,Avocado Toast,Chicken Salad,Steak,Fruits,High Protein
+55,Male,31.67878416230048,Moderate,Asthma,Dairy,Vegetarian,Smoothie,Grilled Cheese,Veggie Burger,Nuts,Balanced
+36,Male,23.33156360556592,Sedentary,Asthma,Peanut,Non-Vegetarian,Smoothie,Chicken Salad,Stir Fry Vegetables,Fruits,Balanced
+25,Male,34.669510434421035,Moderate,Diabetes,Dairy,Vegetarian,"Oats, Eggs",Quinoa Bowl,Stir Fry Vegetables,Fruits,Low Carb
+65,Female,28.43104622899932,Moderate,Heart Disease,Soy,Non-Vegetarian,Avocado Toast,Quinoa Bowl,Grilled Fish,Yogurt,Balanced
+62,Male,28.109973860419565,Sedentary,Diabetes,Dairy,Non-Vegetarian,"Oats, Eggs",Grilled Cheese,Steak,Yogurt,Low Carb
+18,Male,30.84320746058728,Sedentary,Asthma,Peanut,Vegetarian,Smoothie,Lentil Soup,Grilled Fish,Granola Bar,Balanced
+39,Male,31.89420150348727,Sedentary,Asthma,Peanut,Vegan,Smoothie,Grilled Cheese,Veggie Burger,Nuts,Plant-Based
+69,Male,29.331897020969794,Sedentary,Hypertension,Peanut,Vegan,Avocado Toast,Lentil Soup,Pasta,Fruits,Plant-Based
+34,Male,20.6135798150423,Moderate,Hypertension,Soy,Vegan,Pancakes,Quinoa Bowl,Pasta,Granola Bar,Plant-Based
+62,Male,22.206157595423555,Active,Hypertension,Peanut,Non-Vegetarian,Avocado Toast,Quinoa Bowl,Grilled Fish,Fruits,High Protein
+21,Male,24.640755893318968,Moderate,Diabetes,Dairy,Vegan,"Oats, Eggs",Chicken Salad,Veggie Burger,Yogurt,Low Carb
+53,Male,25.629268568579235,Active,Heart Disease,Dairy,Vegetarian,Avocado Toast,Quinoa Bowl,Pasta,Chips,Balanced
+23,Male,25.750182329958463,Moderate,Diabetes,Dairy,Vegan,Pancakes,Grilled Cheese,Grilled Fish,Nuts,Low Carb
+48,Female,28.61350311115968,Active,Heart Disease,Soy,Non-Vegetarian,Avocado Toast,Lentil Soup,Steak,Fruits,Balanced
+36,Male,34.060751322787674,Sedentary,Hypertension,Dairy,Vegetarian,"Oats, Eggs",Quinoa Bowl,Pasta,Nuts,Balanced
+56,Female,20.50477270896515,Sedentary,Diabetes,Soy,Vegetarian,"Oats, Eggs",Grilled Cheese,Steak,Granola Bar,Low Carb
+44,Male,21.758263082688966,Sedentary,Diabetes,Peanut,Vegetarian,"Oats, Eggs",Veggie Wrap,Stir Fry Vegetables,Chips,Low Carb
+43,Female,29.1558784088109,Sedentary,Heart Disease,Peanut,Vegan,Avocado Toast,Lentil Soup,Steak,Yogurt,Plant-Based
+36,Female,23.217462022446146,Active,Hypertension,Peanut,Vegetarian,Smoothie,Grilled Cheese,Grilled Fish,Fruits,High Protein
+56,Female,31.963124492982185,Moderate,Diabetes,Soy,Vegan,Avocado Toast,Veggie Wrap,Stir Fry Vegetables,Nuts,Low Carb
+20,Male,32.712604939996694,Sedentary,Diabetes,Soy,Non-Vegetarian,Tofu Scramble,Chicken Salad,Veggie Burger,Granola Bar,Low Carb
+67,Male,22.661976832860468,Active,Hypertension,Peanut,Vegan,Pancakes,Veggie Wrap,Pasta,Granola Bar,Plant-Based
+45,Male,30.95819182431359,Active,Hypertension,Gluten,Vegetarian,Pancakes,Lentil Soup,Grilled Fish,Yogurt,Balanced
+37,Male,26.09890170502331,Active,Asthma,Gluten,Vegan,Avocado Toast,Grilled Cheese,Steak,Granola Bar,Plant-Based
+25,Male,30.520096173166618,Active,Asthma,Gluten,Non-Vegetarian,Smoothie,Veggie Wrap,Stir Fry Vegetables,Fruits,Balanced
+58,Female,31.311382867245456,Active,Heart Disease,Dairy,Vegan,Smoothie,Quinoa Bowl,Grilled Fish,Granola Bar,Plant-Based
+56,Male,29.32667032173768,Moderate,Asthma,Soy,Vegetarian,Pancakes,Quinoa Bowl,Pasta,Chips,Balanced
+18,Male,21.42757469625016,Moderate,Diabetes,Peanut,Non-Vegetarian,"Oats, Eggs",Lentil Soup,Veggie Burger,Fruits,Low Carb
+30,Male,34.74705070215438,Moderate,Hypertension,Peanut,Vegan,Smoothie,Lentil Soup,Grilled Fish,Yogurt,Plant-Based
+45,Female,33.96690309720246,Sedentary,Heart Disease,Dairy,Non-Vegetarian,Smoothie,Grilled Cheese,Pasta,Granola Bar,Balanced
+66,Female,19.212366640650693,Sedentary,Diabetes,Dairy,Vegetarian,"Oats, Eggs",Quinoa Bowl,Stir Fry Vegetables,Fruits,Low Carb
+42,Female,21.219444459535712,Moderate,Asthma,Peanut,Non-Vegetarian,"Oats, Eggs",Quinoa Bowl,Grilled Fish,Chips,Balanced
+50,Female,20.67352476200027,Moderate,Heart Disease,Dairy,Non-Vegetarian,Avocado Toast,Quinoa Bowl,Stir Fry Vegetables,Nuts,Balanced
+55,Male,30.478668514757373,Active,Heart Disease,Gluten,Vegetarian,Tofu Scramble,Chicken Salad,Veggie Burger,Granola Bar,Balanced
+23,Female,31.9934579426396,Moderate,Diabetes,Gluten,Non-Vegetarian,"Oats, Eggs",Chicken Salad,Stir Fry Vegetables,Yogurt,Low Carb
+61,Male,22.022937544126087,Active,Asthma,Dairy,Non-Vegetarian,Smoothie,Veggie Wrap,Pasta,Fruits,High Protein
+62,Male,26.846569433705177,Sedentary,Heart Disease,Dairy,Non-Vegetarian,Smoothie,Lentil Soup,Steak,Chips,Balanced
+49,Male,32.3715999621848,Moderate,Heart Disease,Gluten,Non-Vegetarian,Pancakes,Lentil Soup,Pasta,Granola Bar,Balanced
+64,Male,27.44691389061549,Active,Heart Disease,Dairy,Non-Vegetarian,Avocado Toast,Quinoa Bowl,Grilled Fish,Chips,Balanced
+38,Female,23.40954944676054,Sedentary,Asthma,Gluten,Non-Vegetarian,Smoothie,Grilled Cheese,Grilled Fish,Fruits,Balanced
+28,Female,27.82286288217377,Active,Asthma,Peanut,Non-Vegetarian,Avocado Toast,Chicken Salad,Grilled Fish,Yogurt,Balanced
+53,Female,32.90982811170333,Moderate,Asthma,Dairy,Vegetarian,Smoothie,Quinoa Bowl,Stir Fry Vegetables,Nuts,Balanced
+52,Male,28.998807340657592,Active,Heart Disease,Dairy,Vegetarian,Smoothie,Lentil Soup,Pasta,Chips,Balanced
+36,Female,31.058505361212102,Moderate,Diabetes,Peanut,Vegetarian,Smoothie,Grilled Cheese,Stir Fry Vegetables,Nuts,Low Carb
+35,Male,26.11569832792653,Moderate,Hypertension,Soy,Non-Vegetarian,Pancakes,Veggie Wrap,Grilled Fish,Yogurt,Balanced
+64,Female,18.65397172714704,Moderate,Asthma,Peanut,Non-Vegetarian,Avocado Toast,Grilled Cheese,Veggie Burger,Fruits,Balanced
+66,Male,30.48661829936458,Active,Diabetes,Peanut,Vegan,Pancakes,Lentil Soup,Steak,Yogurt,Low Carb
+31,Female,34.864864197264495,Moderate,Diabetes,Gluten,Non-Vegetarian,"Oats, Eggs",Lentil Soup,Steak,Granola Bar,Low Carb
+32,Male,20.136438643189063,Active,Hypertension,Peanut,Vegetarian,"Oats, Eggs",Chicken Salad,Grilled Fish,Nuts,High Protein
+18,Female,31.70117098353613,Active,Asthma,Dairy,Non-Vegetarian,Tofu Scramble,Quinoa Bowl,Pasta,Fruits,Balanced
+20,Female,21.86658797137683,Moderate,Hypertension,Soy,Vegetarian,"Oats, Eggs",Lentil Soup,Grilled Fish,Fruits,Balanced
+33,Male,27.658901663487725,Active,Heart Disease,Soy,Vegetarian,Avocado Toast,Lentil Soup,Steak,Fruits,Balanced
+40,Male,30.59567638448964,Moderate,Heart Disease,Soy,Non-Vegetarian,Pancakes,Chicken Salad,Steak,Yogurt,Balanced
+29,Female,21.602408121154365,Sedentary,Asthma,Soy,Vegetarian,"Oats, Eggs",Grilled Cheese,Stir Fry Vegetables,Nuts,Balanced
+49,Female,31.432564444009053,Active,Asthma,Soy,Non-Vegetarian,Tofu Scramble,Chicken Salad,Stir Fry Vegetables,Yogurt,Balanced
+25,Male,18.58628862345806,Moderate,Hypertension,Peanut,Non-Vegetarian,Avocado Toast,Veggie Wrap,Stir Fry Vegetables,Granola Bar,Balanced
+55,Female,31.05634754046355,Active,Asthma,Peanut,Non-Vegetarian,Smoothie,Lentil Soup,Veggie Burger,Yogurt,Balanced
+29,Male,19.082637356513946,Sedentary,Hypertension,Dairy,Vegan,Avocado Toast,Lentil Soup,Stir Fry Vegetables,Nuts,Plant-Based
+45,Male,21.840929242726418,Active,Asthma,Gluten,Vegan,Smoothie,Veggie Wrap,Stir Fry Vegetables,Nuts,Plant-Based
+25,Male,34.30821242196977,Sedentary,Asthma,Dairy,Vegan,Tofu Scramble,Lentil Soup,Stir Fry Vegetables,Nuts,Plant-Based
+43,Female,20.956652830485336,Moderate,Heart Disease,Soy,Non-Vegetarian,Tofu Scramble,Grilled Cheese,Veggie Burger,Granola Bar,Balanced
+25,Female,23.542469555588543,Moderate,Hypertension,Gluten,Vegan,"Oats, Eggs",Lentil Soup,Steak,Nuts,Plant-Based
+67,Male,32.96473757016531,Sedentary,Hypertension,Peanut,Vegan,Tofu Scramble,Chicken Salad,Grilled Fish,Yogurt,Plant-Based
+45,Male,34.93951657084958,Sedentary,Asthma,Dairy,Vegan,"Oats, Eggs",Chicken Salad,Grilled Fish,Granola Bar,Plant-Based
+54,Female,25.90207541074995,Active,Hypertension,Gluten,Vegan,Tofu Scramble,Veggie Wrap,Grilled Fish,Nuts,Plant-Based
+53,Female,33.12223037767373,Active,Asthma,Soy,Vegetarian,Smoothie,Chicken Salad,Steak,Granola Bar,Balanced
+44,Female,28.28523151408194,Active,Hypertension,Dairy,Vegetarian,Tofu Scramble,Chicken Salad,Pasta,Granola Bar,Balanced
+50,Female,29.977699417197314,Active,Heart Disease,Dairy,Vegetarian,Avocado Toast,Veggie Wrap,Steak,Chips,Balanced
+37,Male,18.5531013494706,Moderate,Hypertension,Peanut,Vegetarian,Tofu Scramble,Grilled Cheese,Grilled Fish,Chips,Balanced
+45,Male,24.3656346722824,Active,Hypertension,Dairy,Vegetarian,Smoothie,Quinoa Bowl,Grilled Fish,Fruits,High Protein
+65,Male,31.60425596607189,Active,Hypertension,Peanut,Non-Vegetarian,Tofu Scramble,Chicken Salad,Grilled Fish,Yogurt,Balanced
+46,Female,20.03434555708168,Sedentary,Asthma,Soy,Vegan,Smoothie,Veggie Wrap,Grilled Fish,Nuts,Plant-Based
+30,Male,28.205337404648443,Moderate,Asthma,Soy,Vegetarian,Smoothie,Chicken Salad,Veggie Burger,Nuts,Balanced
+52,Male,29.098371177436253,Sedentary,Diabetes,Dairy,Vegetarian,Smoothie,Lentil Soup,Grilled Fish,Fruits,Low Carb
+23,Female,19.570084308968976,Active,Hypertension,Gluten,Vegan,Smoothie,Chicken Salad,Grilled Fish,Fruits,Plant-Based
+68,Male,27.76449570133214,Moderate,Heart Disease,Soy,Non-Vegetarian,Tofu Scramble,Lentil Soup,Grilled Fish,Fruits,Balanced
+22,Female,27.750891557866822,Active,Asthma,Peanut,Non-Vegetarian,Pancakes,Grilled Cheese,Stir Fry Vegetables,Nuts,Balanced
+64,Male,28.457546498841506,Active,Asthma,Gluten,Vegan,"Oats, Eggs",Grilled Cheese,Stir Fry Vegetables,Fruits,Plant-Based
+19,Male,31.7823184947327,Active,Hypertension,Gluten,Vegan,"Oats, Eggs",Chicken Salad,Grilled Fish,Chips,Plant-Based
+47,Female,32.113315267971025,Sedentary,Diabetes,Gluten,Vegan,Smoothie,Lentil Soup,Veggie Burger,Fruits,Low Carb
+50,Male,24.014932258485004,Sedentary,Heart Disease,Gluten,Vegetarian,Smoothie,Grilled Cheese,Stir Fry Vegetables,Fruits,Balanced
+35,Female,30.17673542322511,Active,Hypertension,Soy,Vegetarian,Pancakes,Lentil Soup,Grilled Fish,Nuts,Balanced
+49,Male,31.512146917094704,Active,Diabetes,Gluten,Vegetarian,Pancakes,Veggie Wrap,Veggie Burger,Yogurt,Low Carb
+64,Female,27.03493943128656,Moderate,Heart Disease,Dairy,Non-Vegetarian,Avocado Toast,Veggie Wrap,Veggie Burger,Nuts,Balanced
+66,Male,25.763283466265595,Moderate,Asthma,Peanut,Vegetarian,"Oats, Eggs",Quinoa Bowl,Steak,Granola Bar,Balanced
+43,Male,25.66131954186894,Active,Hypertension,Peanut,Non-Vegetarian,Pancakes,Quinoa Bowl,Veggie Burger,Granola Bar,Balanced
+42,Female,19.961907089713684,Sedentary,Asthma,Soy,Non-Vegetarian,"Oats, Eggs",Grilled Cheese,Veggie Burger,Nuts,Balanced
+39,Male,22.140097219734987,Sedentary,Heart Disease,Peanut,Vegetarian,"Oats, Eggs",Lentil Soup,Veggie Burger,Granola Bar,Balanced
+44,Female,28.37071735205169,Sedentary,Diabetes,Gluten,Vegetarian,Smoothie,Veggie Wrap,Stir Fry Vegetables,Yogurt,Low Carb
+66,Male,30.63844138494663,Active,Heart Disease,Peanut,Vegetarian,Tofu Scramble,Quinoa Bowl,Pasta,Nuts,Balanced
+50,Female,33.8963699671687,Active,Diabetes,Peanut,Vegan,Avocado Toast,Veggie Wrap,Grilled Fish,Granola Bar,Low Carb
+51,Female,29.10232579233066,Sedentary,Heart Disease,Dairy,Vegetarian,Tofu Scramble,Veggie Wrap,Stir Fry Vegetables,Chips,Balanced
+52,Male,28.99692651768584,Active,Hypertension,Peanut,Non-Vegetarian,Avocado Toast,Veggie Wrap,Grilled Fish,Chips,Balanced
+38,Female,20.45254715023589,Sedentary,Asthma,Gluten,Vegan,Avocado Toast,Grilled Cheese,Steak,Yogurt,Plant-Based
+23,Female,32.35673771298768,Sedentary,Hypertension,Soy,Vegetarian,Pancakes,Veggie Wrap,Grilled Fish,Yogurt,Balanced
+45,Male,24.833243706895225,Active,Diabetes,Dairy,Vegetarian,Pancakes,Veggie Wrap,Pasta,Granola Bar,Low Carb
+34,Male,27.93589247524858,Sedentary,Hypertension,Soy,Vegan,Pancakes,Quinoa Bowl,Veggie Burger,Fruits,Plant-Based
+22,Male,28.198194454226268,Sedentary,Asthma,Dairy,Non-Vegetarian,Pancakes,Chicken Salad,Steak,Chips,Balanced
+48,Male,21.54385817670505,Moderate,Heart Disease,Peanut,Vegetarian,Pancakes,Lentil Soup,Stir Fry Vegetables,Granola Bar,Balanced
+22,Female,24.47688478726276,Active,Asthma,Gluten,Non-Vegetarian,Avocado Toast,Veggie Wrap,Grilled Fish,Nuts,High Protein
+20,Female,18.93224569077907,Moderate,Hypertension,Dairy,Vegan,Smoothie,Chicken Salad,Veggie Burger,Yogurt,Plant-Based
+27,Female,27.048299642940457,Active,Hypertension,Gluten,Vegan,Avocado Toast,Lentil Soup,Steak,Nuts,Plant-Based
+36,Male,34.02120754440312,Active,Heart Disease,Peanut,Vegetarian,Pancakes,Lentil Soup,Pasta,Granola Bar,Balanced
+38,Male,25.589337410192428,Sedentary,Heart Disease,Dairy,Non-Vegetarian,Smoothie,Quinoa Bowl,Steak,Fruits,Balanced
+31,Male,32.90004913299593,Sedentary,Diabetes,Dairy,Vegetarian,Avocado Toast,Chicken Salad,Stir Fry Vegetables,Yogurt,Low Carb
+63,Male,21.570673394463576,Moderate,Asthma,Peanut,Non-Vegetarian,Pancakes,Veggie Wrap,Veggie Burger,Fruits,Balanced
+18,Female,31.74361461162922,Moderate,Diabetes,Soy,Vegetarian,Tofu Scramble,Veggie Wrap,Grilled Fish,Granola Bar,Low Carb
+62,Female,26.46898638940836,Sedentary,Diabetes,Gluten,Vegetarian,"Oats, Eggs",Chicken Salad,Steak,Fruits,Low Carb
+21,Female,19.82992497699256,Sedentary,Hypertension,Peanut,Non-Vegetarian,Smoothie,Chicken Salad,Steak,Fruits,Balanced
+18,Male,30.510998565067126,Active,Hypertension,Dairy,Vegetarian,Pancakes,Chicken Salad,Steak,Fruits,Balanced
+66,Male,26.691609013862447,Sedentary,Heart Disease,Gluten,Vegetarian,Tofu Scramble,Lentil Soup,Steak,Yogurt,Balanced
+57,Female,25.708036593150464,Moderate,Heart Disease,Peanut,Non-Vegetarian,"Oats, Eggs",Quinoa Bowl,Stir Fry Vegetables,Fruits,Balanced
+49,Female,30.536885772764546,Moderate,Hypertension,Peanut,Vegan,Tofu Scramble,Quinoa Bowl,Veggie Burger,Nuts,Plant-Based
+51,Male,31.13096283335331,Sedentary,Heart Disease,Peanut,Vegan,Smoothie,Grilled Cheese,Pasta,Granola Bar,Plant-Based
+45,Male,21.121984766544333,Active,Diabetes,Gluten,Non-Vegetarian,Smoothie,Lentil Soup,Veggie Burger,Yogurt,Low Carb
+48,Male,28.56871496638108,Sedentary,Asthma,Gluten,Vegan,Tofu Scramble,Chicken Salad,Grilled Fish,Fruits,Plant-Based
+25,Female,20.73334235758181,Active,Asthma,Soy,Non-Vegetarian,Pancakes,Chicken Salad,Pasta,Nuts,High Protein
+56,Male,30.89768891947925,Sedentary,Diabetes,Soy,Vegetarian,Smoothie,Veggie Wrap,Veggie Burger,Granola Bar,Low Carb
+20,Male,19.63780726988095,Active,Diabetes,Gluten,Vegetarian,Tofu Scramble,Chicken Salad,Steak,Fruits,Low Carb
+67,Male,19.441402898995698,Active,Heart Disease,Gluten,Vegan,Tofu Scramble,Grilled Cheese,Pasta,Chips,Plant-Based
+29,Male,23.156086732437803,Moderate,Diabetes,Soy,Vegan,Avocado Toast,Lentil Soup,Pasta,Chips,Low Carb
+18,Female,22.818143781642448,Sedentary,Hypertension,Peanut,Vegetarian,Smoothie,Quinoa Bowl,Grilled Fish,Yogurt,Balanced
+61,Female,22.575150184688,Moderate,Heart Disease,Dairy,Vegetarian,Pancakes,Chicken Salad,Steak,Nuts,Balanced
+22,Female,33.453200578597105,Active,Hypertension,Soy,Vegan,Pancakes,Lentil Soup,Pasta,Granola Bar,Plant-Based
+47,Female,22.61751229751685,Sedentary,Heart Disease,Gluten,Vegetarian,Avocado Toast,Chicken Salad,Pasta,Nuts,Balanced
+47,Female,22.98717048112241,Moderate,Asthma,Soy,Non-Vegetarian,Pancakes,Veggie Wrap,Pasta,Chips,Balanced
+40,Male,19.57854159981236,Moderate,Heart Disease,Gluten,Vegetarian,Smoothie,Veggie Wrap,Veggie Burger,Chips,Balanced
+32,Female,26.54492469561084,Moderate,Hypertension,Soy,Vegetarian,Smoothie,Chicken Salad,Steak,Granola Bar,Balanced
+54,Male,19.054624403024164,Active,Asthma,Peanut,Vegan,Smoothie,Veggie Wrap,Stir Fry Vegetables,Yogurt,Plant-Based
+38,Male,19.533777857013348,Moderate,Hypertension,Dairy,Vegetarian,Tofu Scramble,Chicken Salad,Grilled Fish,Fruits,Balanced
+19,Male,20.79754862344032,Moderate,Asthma,Soy,Non-Vegetarian,Avocado Toast,Veggie Wrap,Pasta,Granola Bar,Balanced
+68,Male,25.28307744291165,Active,Hypertension,Soy,Vegan,Smoothie,Grilled Cheese,Grilled Fish,Chips,Plant-Based
+55,Male,33.34725020384,Moderate,Heart Disease,Dairy,Vegetarian,"Oats, Eggs",Veggie Wrap,Stir Fry Vegetables,Granola Bar,Balanced
+51,Female,18.860086046795576,Moderate,Asthma,Soy,Vegan,"Oats, Eggs",Veggie Wrap,Stir Fry Vegetables,Chips,Plant-Based
+55,Female,29.452529821897222,Active,Diabetes,Gluten,Non-Vegetarian,Pancakes,Veggie Wrap,Veggie Burger,Yogurt,Low Carb
+35,Female,33.95757062354602,Sedentary,Asthma,Peanut,Vegan,"Oats, Eggs",Grilled Cheese,Veggie Burger,Nuts,Plant-Based
+47,Male,19.362255008219392,Sedentary,Heart Disease,Gluten,Vegan,"Oats, Eggs",Chicken Salad,Pasta,Chips,Plant-Based
+32,Male,25.410089764723665,Active,Heart Disease,Dairy,Non-Vegetarian,Avocado Toast,Grilled Cheese,Steak,Yogurt,Balanced
+44,Male,22.79260355087384,Moderate,Asthma,Dairy,Vegan,Avocado Toast,Chicken Salad,Stir Fry Vegetables,Fruits,Plant-Based
+68,Male,30.55854592218204,Moderate,Heart Disease,Gluten,Vegan,Smoothie,Veggie Wrap,Grilled Fish,Fruits,Plant-Based
+55,Male,29.29388092432223,Active,Diabetes,Gluten,Non-Vegetarian,Avocado Toast,Grilled Cheese,Grilled Fish,Chips,Low Carb
+41,Male,27.82794920043156,Active,Hypertension,Peanut,Non-Vegetarian,Pancakes,Chicken Salad,Pasta,Fruits,Balanced
+32,Female,26.154886030357545,Sedentary,Hypertension,Dairy,Non-Vegetarian,Smoothie,Lentil Soup,Steak,Nuts,Balanced
+47,Female,34.53808793892036,Moderate,Diabetes,Gluten,Non-Vegetarian,Smoothie,Chicken Salad,Pasta,Chips,Low Carb
+59,Male,28.5406999994917,Moderate,Diabetes,Dairy,Vegan,"Oats, Eggs",Quinoa Bowl,Stir Fry Vegetables,Fruits,Low Carb
+68,Female,24.266855139432508,Sedentary,Heart Disease,Peanut,Vegan,"Oats, Eggs",Grilled Cheese,Stir Fry Vegetables,Yogurt,Plant-Based
+34,Male,20.3825804506509,Active,Diabetes,Dairy,Non-Vegetarian,Pancakes,Quinoa Bowl,Veggie Burger,Yogurt,Low Carb
+22,Female,20.99557267412642,Active,Diabetes,Gluten,Vegetarian,Tofu Scramble,Quinoa Bowl,Pasta,Nuts,Low Carb
+46,Male,22.21772934419538,Moderate,Hypertension,Peanut,Non-Vegetarian,Tofu Scramble,Chicken Salad,Stir Fry Vegetables,Yogurt,Balanced
+27,Female,32.53516495437877,Moderate,Diabetes,Gluten,Non-Vegetarian,Smoothie,Veggie Wrap,Grilled Fish,Fruits,Low Carb
+34,Female,27.76017600666166,Sedentary,Diabetes,Soy,Non-Vegetarian,Smoothie,Chicken Salad,Grilled Fish,Chips,Low Carb
+27,Male,27.13595003767705,Active,Heart Disease,Gluten,Non-Vegetarian,Avocado Toast,Veggie Wrap,Pasta,Granola Bar,Balanced
+34,Female,20.393686385842088,Sedentary,Asthma,Peanut,Vegan,Smoothie,Quinoa Bowl,Veggie Burger,Yogurt,Plant-Based
+37,Female,32.69230494026568,Active,Heart Disease,Gluten,Vegetarian,Smoothie,Veggie Wrap,Steak,Yogurt,Balanced
+23,Male,27.46838058615366,Moderate,Heart Disease,Dairy,Vegan,"Oats, Eggs",Lentil Soup,Steak,Fruits,Plant-Based
+19,Male,19.84846820482184,Moderate,Hypertension,Peanut,Vegetarian,"Oats, Eggs",Chicken Salad,Stir Fry Vegetables,Granola Bar,Balanced
+30,Male,26.06196058522283,Active,Asthma,Peanut,Vegan,Avocado Toast,Lentil Soup,Steak,Yogurt,Plant-Based
+60,Female,26.49748873764577,Active,Heart Disease,Dairy,Vegetarian,Pancakes,Grilled Cheese,Stir Fry Vegetables,Yogurt,Balanced
+68,Male,29.538868565930287,Moderate,Heart Disease,Soy,Vegetarian,Avocado Toast,Lentil Soup,Grilled Fish,Nuts,Balanced
+64,Female,26.12787675651002,Active,Asthma,Soy,Vegetarian,Pancakes,Chicken Salad,Pasta,Nuts,Balanced
+40,Male,25.29413143614439,Active,Asthma,Soy,Non-Vegetarian,Smoothie,Chicken Salad,Grilled Fish,Nuts,Balanced
+33,Male,29.241062207990744,Moderate,Heart Disease,Gluten,Vegetarian,Pancakes,Veggie Wrap,Steak,Nuts,Balanced
+48,Female,27.49962584521394,Sedentary,Asthma,Soy,Vegetarian,Avocado Toast,Chicken Salad,Veggie Burger,Yogurt,Balanced
+28,Male,19.527506247051114,Sedentary,Diabetes,Dairy,Non-Vegetarian,Avocado Toast,Grilled Cheese,Steak,Yogurt,Low Carb
+33,Female,26.956293704710475,Active,Heart Disease,Gluten,Non-Vegetarian,Avocado Toast,Lentil Soup,Pasta,Chips,Balanced
+25,Female,31.80565968434185,Moderate,Diabetes,Dairy,Vegan,"Oats, Eggs",Chicken Salad,Pasta,Yogurt,Low Carb
+21,Male,26.07745798034981,Moderate,Diabetes,Gluten,Vegetarian,Smoothie,Chicken Salad,Grilled Fish,Nuts,Low Carb
+57,Male,19.35728352964543,Active,Hypertension,Soy,Vegan,"Oats, Eggs",Quinoa Bowl,Pasta,Granola Bar,Plant-Based
+21,Female,31.473590289836544,Sedentary,Heart Disease,Dairy,Vegan,Tofu Scramble,Quinoa Bowl,Stir Fry Vegetables,Granola Bar,Plant-Based
+42,Male,21.822502405243576,Sedentary,Asthma,Dairy,Non-Vegetarian,Smoothie,Quinoa Bowl,Pasta,Fruits,Balanced
+20,Male,22.76724377565264,Sedentary,Diabetes,Dairy,Vegan,Pancakes,Lentil Soup,Grilled Fish,Fruits,Low Carb
+49,Male,21.21765483163288,Active,Hypertension,Gluten,Vegetarian,Avocado Toast,Grilled Cheese,Grilled Fish,Yogurt,High Protein
+20,Male,23.94854857037971,Sedentary,Heart Disease,Peanut,Non-Vegetarian,Tofu Scramble,Grilled Cheese,Stir Fry Vegetables,Granola Bar,Balanced
+44,Male,30.98639984386248,Active,Heart Disease,Soy,Vegetarian,Smoothie,Grilled Cheese,Grilled Fish,Nuts,Balanced
+67,Male,32.984196289508674,Sedentary,Diabetes,Soy,Vegetarian,"Oats, Eggs",Quinoa Bowl,Pasta,Yogurt,Low Carb
+36,Male,32.86454401325911,Sedentary,Diabetes,Dairy,Vegetarian,Smoothie,Veggie Wrap,Pasta,Chips,Low Carb
+38,Female,22.4401374877954,Sedentary,Asthma,Dairy,Non-Vegetarian,Tofu Scramble,Veggie Wrap,Veggie Burger,Nuts,Balanced
+22,Male,25.945449178986305,Moderate,Diabetes,Gluten,Vegan,Pancakes,Chicken Salad,Pasta,Nuts,Low Carb
+45,Female,31.23820585911484,Moderate,Asthma,Peanut,Non-Vegetarian,Tofu Scramble,Chicken Salad,Grilled Fish,Yogurt,Balanced
+39,Male,19.57587575579812,Sedentary,Diabetes,Soy,Vegetarian,Pancakes,Veggie Wrap,Stir Fry Vegetables,Chips,Low Carb
+38,Female,26.15486771740349,Active,Hypertension,Dairy,Vegetarian,Tofu Scramble,Quinoa Bowl,Veggie Burger,Fruits,Balanced
+23,Male,33.50213339671574,Sedentary,Heart Disease,Soy,Non-Vegetarian,"Oats, Eggs",Lentil Soup,Steak,Granola Bar,Balanced
+22,Male,26.71390638256579,Sedentary,Diabetes,Dairy,Vegan,Avocado Toast,Lentil Soup,Grilled Fish,Nuts,Low Carb
+63,Male,24.776930123874777,Sedentary,Heart Disease,Soy,Non-Vegetarian,Smoothie,Grilled Cheese,Veggie Burger,Granola Bar,Balanced
+66,Male,34.41386478936339,Sedentary,Hypertension,Gluten,Vegetarian,Avocado Toast,Grilled Cheese,Pasta,Granola Bar,Balanced
+62,Female,23.237776308395496,Active,Asthma,Soy,Vegetarian,Smoothie,Quinoa Bowl,Steak,Chips,High Protein
+43,Male,28.97060988958001,Moderate,Heart Disease,Gluten,Vegetarian,Tofu Scramble,Grilled Cheese,Stir Fry Vegetables,Nuts,Balanced
+64,Male,31.66558363366225,Sedentary,Hypertension,Dairy,Non-Vegetarian,"Oats, Eggs",Grilled Cheese,Steak,Chips,Balanced
+47,Male,27.29497630956131,Active,Hypertension,Gluten,Vegetarian,Tofu Scramble,Quinoa Bowl,Veggie Burger,Yogurt,Balanced
+60,Female,21.106254576783243,Moderate,Diabetes,Peanut,Non-Vegetarian,Avocado Toast,Chicken Salad,Steak,Yogurt,Low Carb
+53,Male,32.64345774047942,Active,Asthma,Gluten,Vegetarian,Avocado Toast,Chicken Salad,Veggie Burger,Chips,Balanced
+52,Male,20.82174021280452,Sedentary,Asthma,Dairy,Non-Vegetarian,"Oats, Eggs",Lentil Soup,Stir Fry Vegetables,Nuts,Balanced
+69,Male,21.833258528641085,Active,Hypertension,Soy,Non-Vegetarian,Smoothie,Lentil Soup,Stir Fry Vegetables,Nuts,High Protein
+32,Female,21.53970984742743,Moderate,Asthma,Dairy,Vegetarian,Pancakes,Lentil Soup,Stir Fry Vegetables,Nuts,Balanced
+39,Male,29.29582711336187,Sedentary,Heart Disease,Gluten,Vegetarian,Pancakes,Veggie Wrap,Pasta,Fruits,Balanced
+31,Male,21.009720673167504,Sedentary,Diabetes,Soy,Vegetarian,Smoothie,Grilled Cheese,Steak,Granola Bar,Low Carb
+43,Male,25.76533640307776,Active,Heart Disease,Dairy,Non-Vegetarian,Tofu Scramble,Grilled Cheese,Stir Fry Vegetables,Chips,Balanced
+45,Female,28.652417413651733,Moderate,Heart Disease,Peanut,Vegetarian,Smoothie,Quinoa Bowl,Pasta,Chips,Balanced
+31,Female,33.05987007872109,Active,Asthma,Dairy,Vegan,Smoothie,Quinoa Bowl,Grilled Fish,Granola Bar,Plant-Based
+41,Male,31.75945833478533,Sedentary,Hypertension,Peanut,Vegetarian,Avocado Toast,Quinoa Bowl,Pasta,Nuts,Balanced
+62,Female,34.45758915177631,Moderate,Asthma,Peanut,Vegetarian,Pancakes,Quinoa Bowl,Steak,Fruits,Balanced
+43,Male,25.393056158039144,Moderate,Hypertension,Dairy,Non-Vegetarian,Pancakes,Grilled Cheese,Pasta,Yogurt,Balanced
+31,Male,34.73782026410221,Sedentary,Heart Disease,Dairy,Vegan,Avocado Toast,Chicken Salad,Steak,Fruits,Plant-Based
+24,Female,28.972076008690035,Sedentary,Asthma,Peanut,Vegetarian,Smoothie,Grilled Cheese,Grilled Fish,Chips,Balanced
+20,Female,21.23825577238045,Sedentary,Diabetes,Peanut,Vegan,Tofu Scramble,Quinoa Bowl,Veggie Burger,Fruits,Low Carb
+60,Female,18.708024079600023,Moderate,Diabetes,Gluten,Non-Vegetarian,"Oats, Eggs",Veggie Wrap,Stir Fry Vegetables,Fruits,Low Carb
+64,Male,27.73596878003331,Active,Hypertension,Dairy,Non-Vegetarian,"Oats, Eggs",Lentil Soup,Veggie Burger,Chips,Balanced
+62,Female,27.20209376502416,Sedentary,Hypertension,Gluten,Vegetarian,Tofu Scramble,Chicken Salad,Grilled Fish,Yogurt,Balanced
+35,Male,30.36933476909112,Active,Heart Disease,Soy,Vegan,Pancakes,Quinoa Bowl,Stir Fry Vegetables,Nuts,Plant-Based

@@ -1,0 +1,119 @@
+/* Import Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background: linear-gradient(to right, #2c3e50, #4ca1af);
+    color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    overflow: hidden; /* Ensure no scrolling */
+}
+
+.container {
+    max-width: 600px; /* Reduced width */
+    width: 90%;
+    max-height: 80vh; /* Ensure it fits within the viewport height */
+    overflow-y: auto; /* Add vertical scroll if content overflows */
+    margin: 20px;
+    padding: 20px;
+    background-color: #1e272e;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+    border-radius: 15px;
+    text-align: center;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.container:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.7);
+}
+
+h1 {
+    font-size: 2.5em;
+    color: #f0f0f0;
+    margin-bottom: 20px;
+    animation: fadeInDown 1s ease-in-out;
+}
+
+.meal-section {
+    margin: 20px 0;
+    padding: 20px;
+    border: 1px solid #424242;
+    border-radius: 10px;
+    background-color: #333;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+    animation: fadeIn 1s ease-in-out;
+}
+
+.meal-section:hover {
+    background-color: #444;
+    transform: scale(1.03);
+}
+
+.meal-section h2 {
+    font-size: 2em;
+    color: #00c853;
+    margin-bottom: 10px;
+}
+
+.meal-section p {
+    font-size: 1.2em;
+    color: #ccc;
+    margin: 0;
+}
+
+.back-link {
+    display: inline-block;
+    margin-top: 30px;
+    padding: 15px 30px;
+    font-size: 1.2em;
+    font-weight: 700;
+    color: #ffffff;
+    background-color: #00c853;
+    text-decoration: none;
+    border-radius: 30px;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+    animation: fadeInUp 1s ease-in-out;
+}
+
+.back-link:hover {
+    background-color: #00a152;
+    transform: scale(1.1);
+}
+
+/* Animations */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+@keyframes fadeInDown {
+    from {
+        opacity: 0;
+        transform: translateY(-50px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(50px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
